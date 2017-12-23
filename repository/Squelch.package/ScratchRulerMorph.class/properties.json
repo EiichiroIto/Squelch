@@ -1,0 +1,18 @@
+{
+	"category" : "Squelch-Sound",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"max",
+		"min",
+		"marks",
+		"graph",
+		"sigDigs" ],
+	"name" : "ScratchRulerMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

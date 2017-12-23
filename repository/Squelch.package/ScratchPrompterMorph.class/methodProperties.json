@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"clearLastAnswer" : "jm 2/27/2009 18:13",
+		"initialize" : "jm 2/11/2009 09:45",
+		"lastAnswer" : "jm 2/11/2009 09:46" },
+	"instance" : {
+		"accept" : "jm 2/25/2009 09:50",
+		"dispatchKeyStroke:" : "jm 3/2/2009 15:38",
+		"enterKeyPressed" : "jm 2/10/2009 19:53",
+		"extent:" : "jm 2/10/2009 20:04",
+		"fixLayout" : "ee 4/28/2009 20:40",
+		"grabKeyboardFocus" : "jm 2/10/2009 20:51",
+		"initialize" : "ee 4/28/2009 20:29",
+		"isDone" : "jm 2/10/2009 20:39",
+		"question:" : "ee 3/1/2009 12:34",
+		"sprite:" : "jm 2/25/2009 09:47",
+		"stopAsk" : "jm 2/26/2009 21:34" } }

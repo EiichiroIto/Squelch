@@ -1,0 +1,4 @@
+compressing
+compressedSampleRate
+
+	^ compressedSampleRate

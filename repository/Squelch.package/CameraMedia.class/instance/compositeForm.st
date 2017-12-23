@@ -1,0 +1,4 @@
+accessing
+compositeForm
+
+	^ self form

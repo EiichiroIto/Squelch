@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ColorPalette" ],
+	"commentStamp" : "jm 3/12/2003 18:44",
+	"instvars" : [
+		"showPalette" ],
+	"name" : "ColorArgMorph",
+	"pools" : [
+		 ],
+	"super" : "ArgMorph",
+	"type" : "normal" }

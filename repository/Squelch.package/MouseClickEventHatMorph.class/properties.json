@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 3/28/2005 12:26",
+	"instvars" : [
+		 ],
+	"name" : "MouseClickEventHatMorph",
+	"pools" : [
+		 ],
+	"super" : "EventHatMorph",
+	"type" : "normal" }

@@ -1,0 +1,33 @@
+{
+	"category" : "Squelch-Sound",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"MinScale" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"data",
+		"dataColor",
+		"playCursorColor",
+		"playing",
+		"cursorColor",
+		"cursorColorAtZeroCrossings",
+		"startIndex",
+		"minVal",
+		"maxVal",
+		"selection",
+		"scale",
+		"cachedForm",
+		"hasChanged",
+		"ruler",
+		"viewer",
+		"trueCalls",
+		"falseCalls",
+		"negVals",
+		"posVals",
+		"editor" ],
+	"name" : "ScratchGraphMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"category" : "Squelch-Sound",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 5/5/2007 13:47",
+	"instvars" : [
+		"midiPort",
+		"channel",
+		"volume",
+		"midiKey",
+		"snd" ],
+	"name" : "ScratchNotePlayer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

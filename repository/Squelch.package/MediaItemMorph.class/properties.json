@@ -1,0 +1,31 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"SoundIcon",
+		"SoundIconOn" ],
+	"commentStamp" : "jm 2/27/2005 09:55",
+	"instvars" : [
+		"scratchObj",
+		"media",
+		"thumbnailMorph",
+		"numberMorph",
+		"nameMorph",
+		"infoMorph",
+		"soundSizeMorph",
+		"playButton",
+		"stopButton",
+		"deleteButton",
+		"highlightMorph",
+		"topRightInset",
+		"separator",
+		"rightMorph",
+		"highlightPadding",
+		"numberMorphTopRight",
+		"minThumbHeight" ],
+	"name" : "MediaItemMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

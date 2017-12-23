@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addThumbnailFor:" : "nb 3/30/2008 01:49",
+		"buildPanes" : "EiichiroIto 9/29/2016 17:38",
+		"buildSpriteLabel" : "jm 5/19/2009 13:48",
+		"clearLibrary" : "EiichiroIto 9/29/2016 17:38",
+		"drawBackgroundOn:" : "ee 11/10/2008 14:16",
+		"extent:" : "ee 3/20/2009 14:43",
+		"fixLayout" : "EiichiroIto 9/29/2016 17:51",
+		"initialize" : "jm 5/1/2009 10:51",
+		"makeNewSpriteButtons:" : "jm 3/20/2009 16:59",
+		"spriteButtonsTarget:" : "ee 11/10/2008 14:10",
+		"spriteThumbnails" : "tis 9/11/2006 10:46",
+		"step" : "EiichiroIto 9/29/2016 17:38",
+		"stepTime" : "jm 6/30/2004 14:17",
+		"unhighlightAll" : "jm 11/21/2006 16:02",
+		"updateHighlight" : "EiichiroIto 9/29/2016 17:38" } }

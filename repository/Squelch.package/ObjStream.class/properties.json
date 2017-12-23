@@ -1,0 +1,24 @@
+{
+	"category" : "Squelch-Object IO",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"FirstPointerClassID",
+		"FloatClassID",
+		"IDToClassEntry",
+		"NameToClassEntry",
+		"ObjectReferenceID" ],
+	"commentStamp" : "jm 9/28/2003 15:39",
+	"instvars" : [
+		"objects",
+		"objectIndex",
+		"stream",
+		"firstPass",
+		"fields",
+		"fieldIndex",
+		"toDo" ],
+	"name" : "ObjStream",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

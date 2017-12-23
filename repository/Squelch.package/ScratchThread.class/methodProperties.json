@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"initialize" : "jm 12/19/2006 18:02" },
+	"instance" : {
+		"changeVar:" : "jm 11/15/2006 12:16",
+		"doBroadcastAndWait" : "jm 6/28/2005 17:22",
+		"doForever" : "jm 6/28/2005 17:27",
+		"doIf" : "jm 6/28/2005 17:27",
+		"doRepeat" : "jm 7/2/2005 19:04",
+		"doReturn" : "jm 6/29/2005 17:33",
+		"doWaitUntil" : "jm 6/28/2005 17:25",
+		"evalArg:" : "jm 6/29/2005 17:36",
+		"evalCmdList:" : "jm 6/28/2005 17:18",
+		"evalCommand:" : "jm 6/29/2005 17:47",
+		"isRunning" : "jm 6/29/2005 17:33",
+		"popState" : "jm 7/2/2005 19:03",
+		"pushState" : "jm 7/2/2005 19:02",
+		"readVar:" : "jm 6/28/2005 16:39",
+		"runUntilYield" : "jm 7/3/2005 11:45",
+		"startOn:sprite:" : "jm 7/2/2005 19:02",
+		"stop" : "jm 11/15/2006 12:41" } }

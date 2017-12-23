@@ -1,0 +1,30 @@
+{
+	"category" : "Squelch-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 5/23/2005 08:34",
+	"instvars" : [
+		"resultForm",
+		"cachedForm",
+		"reapply",
+		"brightnessShift",
+		"hueShift",
+		"saturationShift",
+		"fisheye",
+		"whirl",
+		"blur",
+		"mosaicCount",
+		"pixelateCount",
+		"pointillizeSize",
+		"pointillizeForm",
+		"randSeed",
+		"waterRippleRate",
+		"waterArray1",
+		"waterArray2" ],
+	"name" : "FilterPack",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

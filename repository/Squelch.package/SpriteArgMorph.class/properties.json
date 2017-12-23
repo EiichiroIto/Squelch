@@ -1,0 +1,15 @@
+{
+	"category" : "Squelch-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"menuIconMorph",
+		"morph" ],
+	"name" : "SpriteArgMorph",
+	"pools" : [
+		 ],
+	"super" : "ArgMorph",
+	"type" : "normal" }

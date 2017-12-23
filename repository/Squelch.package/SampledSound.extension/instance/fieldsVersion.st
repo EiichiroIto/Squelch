@@ -1,0 +1,3 @@
+*Squelch
+fieldsVersion
+	^ 1

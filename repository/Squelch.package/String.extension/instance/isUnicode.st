@@ -1,0 +1,3 @@
+*Squelch
+isUnicode
+	^ false

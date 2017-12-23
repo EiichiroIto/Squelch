@@ -1,0 +1,4 @@
+block specs
+blockColorDict
+
+	^ BlockColorDict

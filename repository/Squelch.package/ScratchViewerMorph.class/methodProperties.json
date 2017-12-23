@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"catButtonsExtent" : "nb 1/24/2008 17:35",
+		"categoryChanged:" : "jm 6/29/2004 14:20",
+		"currentCategory" : "jm 2/27/2005 19:04",
+		"currentCategory:" : "TIS 7/10/2006 11:17",
+		"drawBackgroundOn:" : "jm 10/28/2008 13:07",
+		"extent:" : "jm 2/27/2005 19:36",
+		"initialize" : "ee 1/29/2009 13:44",
+		"lightUpSelectorForCurrentCategory" : "nb 1/14/2008 20:45",
+		"pageViewer" : "TIS 7/7/2006 13:33",
+		"rebuildCategorySelectors" : "jm 3/14/2009 09:45",
+		"refresh" : "jm 1/28/2009 10:42",
+		"target" : "jm 5/11/2004 19:36",
+		"target:" : "jm 2/27/2005 19:28",
+		"updateContents" : "jm 4/14/2008 17:52" } }

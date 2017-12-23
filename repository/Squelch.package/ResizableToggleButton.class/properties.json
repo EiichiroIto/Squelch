@@ -1,0 +1,22 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sideMargin",
+		"isOn",
+		"offLabelColor",
+		"normalFormLeft",
+		"normalFormEdge",
+		"normalFormRight",
+		"pressedFormLeft",
+		"pressedFormEdge",
+		"pressedFormRight" ],
+	"name" : "ResizableToggleButton",
+	"pools" : [
+		 ],
+	"super" : "SimpleButtonMorph",
+	"type" : "normal" }

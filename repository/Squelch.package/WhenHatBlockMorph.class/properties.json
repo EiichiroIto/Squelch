@@ -1,0 +1,15 @@
+{
+	"category" : "Squelch-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"argMorph",
+		"lastState" ],
+	"name" : "WhenHatBlockMorph",
+	"pools" : [
+		 ],
+	"super" : "HatBlockMorph",
+	"type" : "normal" }

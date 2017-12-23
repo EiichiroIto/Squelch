@@ -1,0 +1,4 @@
+menu
+origSamplingRate
+
+	^origSamplingRate.

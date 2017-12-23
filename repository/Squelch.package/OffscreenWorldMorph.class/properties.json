@@ -1,0 +1,16 @@
+{
+	"category" : "Squelch-UI-Panes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 10/12/2005 13:47",
+	"instvars" : [
+		"damageRecorder",
+		"frame",
+		"presenter" ],
+	"name" : "OffscreenWorldMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"clearUnclaimedKeystrokes" : "EiichiroIto 10/17/2016 21:03",
+		"frame" : "jm 7/31/2008 14:40",
+		"frame:" : "jm 8/3/2008 12:41",
+		"incrRedrawDouble:" : "jm 11/8/2006 18:09",
+		"initialize" : "jm 10/12/2005 09:28",
+		"invalidRect:" : "jm 10/19/2005 13:00",
+		"on:" : "jm 10/21/2005 19:40",
+		"presenter:" : "EiichiroIto 10/17/2016 21:03",
+		"redrawAll" : "jm 10/22/2005 17:00" } }

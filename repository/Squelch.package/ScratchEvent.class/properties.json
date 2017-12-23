@@ -1,0 +1,15 @@
+{
+	"category" : "Squelch-Execution Engine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 3/22/2005 10:52",
+	"instvars" : [
+		"name",
+		"argument" ],
+	"name" : "ScratchEvent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

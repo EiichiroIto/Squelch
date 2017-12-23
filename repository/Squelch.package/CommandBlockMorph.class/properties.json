@@ -1,0 +1,24 @@
+{
+	"category" : "Squelch-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 5/10/2004 19:25",
+	"instvars" : [
+		"commandSpec",
+		"argPermutation",
+		"argMorphs",
+		"titleMorph",
+		"receiver",
+		"selector",
+		"isReporter",
+		"isTimed",
+		"wantsName",
+		"wantsPossession",
+		"numberArgFlags" ],
+	"name" : "CommandBlockMorph",
+	"pools" : [
+		 ],
+	"super" : "BlockMorph",
+	"type" : "normal" }

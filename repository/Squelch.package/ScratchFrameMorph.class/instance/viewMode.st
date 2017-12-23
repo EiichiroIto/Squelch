@@ -1,0 +1,4 @@
+accessing
+viewMode
+
+	^ viewMode

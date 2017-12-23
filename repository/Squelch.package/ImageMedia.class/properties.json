@@ -1,0 +1,19 @@
+{
+	"category" : "Squelch-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"JPEGPlaceholderForm" ],
+	"commentStamp" : "jm 10/12/2007 14:11",
+	"instvars" : [
+		"form",
+		"rotationCenter",
+		"textBox",
+		"jpegBytes",
+		"compositeForm",
+		"savedForm" ],
+	"name" : "ImageMedia",
+	"pools" : [
+		 ],
+	"super" : "ScratchMedia",
+	"type" : "normal" }

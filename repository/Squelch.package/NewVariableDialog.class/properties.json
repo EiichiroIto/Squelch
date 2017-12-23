@@ -1,0 +1,17 @@
+{
+	"category" : "Squelch-UI-Dialogs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"allSpritesRadioButton",
+		"thisSpriteRadioButton",
+		"spriteSpecificFlag",
+		"radioButtons" ],
+	"name" : "NewVariableDialog",
+	"pools" : [
+		 ],
+	"super" : "StringDialog",
+	"type" : "normal" }

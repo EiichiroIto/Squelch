@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ImageFrameMorph2",
+	"pools" : [
+		 ],
+	"super" : "ImageFrameMorph",
+	"type" : "normal" }

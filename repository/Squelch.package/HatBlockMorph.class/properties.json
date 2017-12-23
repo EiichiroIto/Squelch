@@ -1,0 +1,18 @@
+{
+	"category" : "Squelch-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 3/28/2005 12:25",
+	"instvars" : [
+		"scriptNameMorph",
+		"indicatorMorph",
+		"scriptOwner",
+		"parameters",
+		"isClickable" ],
+	"name" : "HatBlockMorph",
+	"pools" : [
+		 ],
+	"super" : "BlockMorph",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Squelch-UI-Panes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 2/27/2005 19:49",
+	"instvars" : [
+		"target",
+		"pageViewer",
+		"currentCategory",
+		"catButtonsExtent" ],
+	"name" : "ScratchViewerMorph",
+	"pools" : [
+		 ],
+	"super" : "DividedImageFrameMorph",
+	"type" : "normal" }

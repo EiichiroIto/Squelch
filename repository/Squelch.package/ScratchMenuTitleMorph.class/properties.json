@@ -1,0 +1,15 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"MenuBarIsActive" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"target",
+		"selector" ],
+	"name" : "ScratchMenuTitleMorph",
+	"pools" : [
+		 ],
+	"super" : "StringMorph",
+	"type" : "normal" }

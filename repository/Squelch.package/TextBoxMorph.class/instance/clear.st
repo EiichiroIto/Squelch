@@ -1,0 +1,4 @@
+operations
+clear
+
+	contentsMorph contents: ''.

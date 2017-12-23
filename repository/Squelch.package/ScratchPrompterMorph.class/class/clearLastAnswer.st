@@ -1,0 +1,4 @@
+accessing
+clearLastAnswer
+
+	LastAnswer := ''.

@@ -1,0 +1,4 @@
+motion ops
+isClone
+
+	^ isClone

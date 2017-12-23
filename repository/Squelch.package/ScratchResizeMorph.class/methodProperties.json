@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"ofType:" : "ee 5/14/2008 17:48" },
+	"instance" : {
+		"form:" : "ee 5/14/2008 17:35",
+		"handlesMouseOver:" : "ee 5/14/2008 17:04",
+		"initialize" : "EiichiroIto 9/26/2016 21:39",
+		"mouseEnter:" : "EiichiroIto 9/29/2016 18:04",
+		"mouseLeave:" : "ee 5/14/2008 17:04",
+		"type:" : "ee 5/14/2008 17:42" } }

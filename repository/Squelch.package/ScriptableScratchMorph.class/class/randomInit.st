@@ -1,0 +1,4 @@
+other
+randomInit
+
+	RandomGen initialize.

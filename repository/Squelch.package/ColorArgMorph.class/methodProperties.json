@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"colorPaletteExtent:" : "jm 6/25/2004 13:54",
+		"initialize" : "jm 6/28/2004 10:41" },
+	"instance" : {
+		"defaultValue:" : "jm 3/23/2005 18:12",
+		"evaluate" : "DaveF 7/11/2003 18:37",
+		"fieldsVersion" : "jm 3/14/2004 13:08",
+		"handlesMouseDown:" : "jm 4/26/2005 10:59",
+		"hexFor:" : "jm 10/30/2005 09:01",
+		"initialize" : "jm 3/28/2005 18:15",
+		"mouseUp:" : "EiichiroIto 10/3/2016 10:23",
+		"pickColor" : "EiichiroIto 10/3/2016 10:41",
+		"printArgOn:" : "jm 10/30/2005 09:07",
+		"setColor:" : "jm 3/11/2004 14:21",
+		"showPalette:" : "jm 3/11/2004 11:55" } }

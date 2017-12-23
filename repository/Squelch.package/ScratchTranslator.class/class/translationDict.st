@@ -1,0 +1,4 @@
+language translation
+translationDict
+
+	^ TranslationDict

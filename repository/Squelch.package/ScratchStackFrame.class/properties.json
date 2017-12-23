@@ -1,0 +1,20 @@
+{
+	"category" : "Squelch-Execution Engine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 3/23/2005 09:11",
+	"instvars" : [
+		"parentFrame",
+		"expression",
+		"arguments",
+		"pc",
+		"startTime",
+		"startValue",
+		"shouldUnlight" ],
+	"name" : "ScratchStackFrame",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

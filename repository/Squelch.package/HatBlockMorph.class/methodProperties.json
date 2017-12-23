@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"blockAttachPoints:" : "ee 3/6/2008 14:55",
+		"click:" : "jm 12/30/2008 18:17",
+		"drawArchOn:" : "ee 3/5/2008 16:13",
+		"drawBodyOn:" : "jm 3/31/2005 22:03",
+		"drawOn:" : "ee 3/5/2008 16:11",
+		"duplicate" : "jm 3/28/2005 12:28",
+		"fieldsVersion" : "jm 9/24/2003 19:07",
+		"fixBlockLayout" : "ee 4/9/2008 10:59",
+		"hatTopForm" : "jm 3/21/2008 13:56",
+		"initFieldsFrom:version:" : "jm 3/28/2005 12:47",
+		"initialize" : "jm 7/10/2008 17:44",
+		"isHatBlock" : "jm 12/21/2008 12:22",
+		"mapReceiver:to:" : "jm 5/8/2007 11:16",
+		"printCodeOn:indent:" : "jm 12/10/2005 11:04",
+		"printHatNameOn:" : "jm 12/8/2005 19:21",
+		"receiver" : "jm 6/10/2004 10:47",
+		"scriptOwner" : "jm 3/5/2003 16:52",
+		"scriptOwner:" : "ee 3/6/2008 18:07",
+		"start" : "EiichiroIto 9/29/2016 17:35",
+		"storeFieldsOn:" : "jm 9/28/2003 18:16" } }

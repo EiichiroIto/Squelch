@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 7/1/2004 23:16",
+	"instvars" : [
+		 ],
+	"name" : "ScratchBlockPaletteMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

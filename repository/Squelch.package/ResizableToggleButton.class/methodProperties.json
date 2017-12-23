@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"normalFormLeft:normalFormEdge:normalFormRight:label:sideMargin:" : "ee 2/10/2005 19:10" },
+	"instance" : {
+		"actWhen" : "ee 3/9/2005 20:03",
+		"areasRemainingToFill:" : "jm 8/22/2006 09:04",
+		"color" : "ee 1/15/2008 12:59",
+		"drawOn:" : "ee 3/21/2005 22:40",
+		"helpScreenName" : "jm 1/21/2007 11:47",
+		"initialize" : "ee 3/9/2005 19:55",
+		"isOn" : "ee 3/9/2005 19:55",
+		"label:font:" : "jm 2/28/2005 15:30",
+		"mouseDown:" : "EiichiroIto 9/22/2016 21:31",
+		"mouseLeave:" : "jm 8/22/2006 08:21",
+		"mouseMove:" : "jm 3/10/2005 09:50",
+		"mouseUp:" : "jm 3/10/2005 09:52",
+		"normalFormLeft:normalFormEdge:normalFormRight:label:sideMargin:" : "jm 3/9/2005 16:42",
+		"off" : "jm 3/14/2005 13:20",
+		"on" : "jm 3/14/2005 13:21",
+		"presentHelpScreen" : "EiichiroIto 9/29/2016 17:37",
+		"pressedFormLeft:pressedFormEdge:pressedFormRight:" : "ee 3/9/2005 17:49",
+		"rightButtonMenu" : "jm 10/25/2007 19:13",
+		"setDefaultLabel" : "ee 2/10/2005 19:09" } }

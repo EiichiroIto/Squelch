@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asBlockTuple" : "jm 11/19/2007 10:38",
+		"comment:" : "jm 10/3/2007 14:34",
+		"fixBlockLayout" : "jm 9/28/2007 17:25",
+		"initialize" : "jm 12/9/2008 17:02",
+		"mouseDown:" : "jm 10/1/2007 16:46",
+		"toggleShowing" : "jm 12/9/2008 17:02",
+		"wantsKeyboardFocusFor:" : "jm 9/28/2007 17:35" } }

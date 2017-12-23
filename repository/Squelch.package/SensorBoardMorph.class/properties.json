@@ -1,0 +1,28 @@
+{
+	"category" : "Squelch-UI-Panes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 11/20/2006 11:52",
+	"instvars" : [
+		"column",
+		"titleMorph",
+		"portName",
+		"port",
+		"readouts",
+		"sensorValues",
+		"currentState",
+		"highByte",
+		"useGoGoProtocol",
+		"scratchBoardV3",
+		"reportRaw",
+		"scanPorts",
+		"scanState",
+		"scanStartMSecs",
+		"lastPollMSecs" ],
+	"name" : "SensorBoardMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

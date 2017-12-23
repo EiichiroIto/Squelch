@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"background" : "ee 11/11/2005 21:09",
+		"background:" : "jm 10/6/2006 13:37",
+		"createForegroundBackground" : "jm 12/5/2006 20:31",
+		"createSwitcher" : "EiichiroIto 10/1/2016 22:05",
+		"foreground" : "ee 11/11/2005 21:09",
+		"foreground:" : "jm 10/6/2006 13:38",
+		"handlesMouseDown:" : "jm 11/20/2005 23:11",
+		"initialize" : "jm 3/21/2008 13:59",
+		"mouseDown:" : "jm 11/20/2005 23:11",
+		"mouseLeave:" : "jm 8/22/2006 08:21",
+		"showBalloon:" : "jm 4/17/2008 12:58",
+		"switchColors" : "ee 1/1/2006 18:30" } }

@@ -1,0 +1,29 @@
+{
+	"category" : "Squelch-UI-Watchers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 5/14/2008 10:59",
+	"instvars" : [
+		"titleMorph",
+		"addItemMorph",
+		"countMorph",
+		"resizeMorph",
+		"scrollPane",
+		"emptyMorph",
+		"numberMorphs",
+		"cellMorphs",
+		"listName",
+		"target",
+		"resizeOffset",
+		"focusIndex",
+		"lastActivityIndex",
+		"highlightActive",
+		"lastActivityError",
+		"listLayoutNeeded" ],
+	"name" : "ScratchListMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

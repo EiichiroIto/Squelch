@@ -1,0 +1,4 @@
+class variables
+blockHighlightMSecs
+
+	^ BlockHighlightMSecs

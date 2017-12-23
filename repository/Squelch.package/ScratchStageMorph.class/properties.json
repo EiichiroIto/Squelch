@@ -1,0 +1,30 @@
+{
+	"category" : "Squelch-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 6/4/2004 14:17",
+	"instvars" : [
+		"zoom",
+		"hPan",
+		"vPan",
+		"penTrailsForm",
+		"lastPenPositions",
+		"runningBlocks",
+		"inProcessStep",
+		"sensorBoard",
+		"midiPortNum",
+		"midiPort",
+		"notePlayerDict",
+		"obsoleteSavedState",
+		"sprites",
+		"scratchServer",
+		"isQuarterSize",
+		"cachedForm",
+		"showMotorBlocks" ],
+	"name" : "ScratchStageMorph",
+	"pools" : [
+		 ],
+	"super" : "ScriptableScratchMorph",
+	"type" : "normal" }

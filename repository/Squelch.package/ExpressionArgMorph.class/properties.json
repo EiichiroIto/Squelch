@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 6/21/2004 13:29",
+	"instvars" : [
+		"isNumber" ],
+	"name" : "ExpressionArgMorph",
+	"pools" : [
+		 ],
+	"super" : "ArgMorph",
+	"type" : "normal" }

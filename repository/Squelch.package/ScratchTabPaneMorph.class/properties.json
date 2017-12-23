@@ -1,0 +1,17 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"targetPane",
+		"currentTab",
+		"lastTabAdded",
+		"barForm" ],
+	"name" : "ScratchTabPaneMorph",
+	"pools" : [
+		 ],
+	"super" : "PasteUpMorph",
+	"type" : "normal" }

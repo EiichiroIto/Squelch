@@ -1,0 +1,4 @@
+*Squelch
+asNumberNoError
+
+	^ 0

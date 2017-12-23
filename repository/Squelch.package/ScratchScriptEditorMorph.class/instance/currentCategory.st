@@ -1,0 +1,5 @@
+accessing
+currentCategory
+
+	^ currentCategory
+

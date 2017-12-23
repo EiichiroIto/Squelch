@@ -1,0 +1,15 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 6/13/2008 17:04",
+	"instvars" : [
+		"key",
+		"uchar" ],
+	"name" : "UnicodeInputTest",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

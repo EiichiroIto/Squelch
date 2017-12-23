@@ -1,0 +1,18 @@
+{
+	"category" : "Squelch-UI-Dialogs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastAnswer" ],
+	"commentStamp" : "jm 2/10/2009 19:55",
+	"instvars" : [
+		"typeinMorph",
+		"questionMorph",
+		"okButton",
+		"done",
+		"sprite" ],
+	"name" : "ScratchPrompterMorph",
+	"pools" : [
+		 ],
+	"super" : "ImageFrameMorph",
+	"type" : "normal" }

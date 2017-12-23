@@ -1,0 +1,17 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"slider",
+		"sliderMin",
+		"sliderMax",
+		"variable" ],
+	"name" : "ScratchSliderMorph",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorph",
+	"type" : "normal" }

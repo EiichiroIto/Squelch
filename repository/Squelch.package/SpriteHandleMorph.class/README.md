@@ -1,0 +1,1 @@
+I am an interactive sprite handle, sort of like a halo button in Scratch. I am meant to be a singleton. Currently I can only resize or rotate a sprite.

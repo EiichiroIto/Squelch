@@ -1,0 +1,4 @@
+accessing
+sound
+
+	^ originalSound

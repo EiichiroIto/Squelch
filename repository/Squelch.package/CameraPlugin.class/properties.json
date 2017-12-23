@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-Plugins",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CameraPlugin",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

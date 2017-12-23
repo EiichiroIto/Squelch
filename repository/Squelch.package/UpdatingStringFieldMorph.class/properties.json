@@ -1,0 +1,16 @@
+{
+	"category" : "Squelch-UI-Dialogs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 7/4/2008 12:29",
+	"instvars" : [
+		"target",
+		"getSelector",
+		"putSelector" ],
+	"name" : "UpdatingStringFieldMorph",
+	"pools" : [
+		 ],
+	"super" : "StringFieldMorph",
+	"type" : "normal" }

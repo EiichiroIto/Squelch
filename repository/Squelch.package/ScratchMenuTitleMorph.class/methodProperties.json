@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"closeAllMenus" : "jens 3/11/2009 21:25",
+		"deactivateMenuBar" : "jens 3/18/2009 17:20",
+		"menuBarIsActive" : "jens 3/7/2009 22:22" },
+	"instance" : {
+		"handlesMouseDown:" : "jm 10/28/2008 11:34",
+		"handlesMouseOver:" : "jm 10/28/2008 11:39",
+		"highlightColor" : "jm 11/10/2008 12:44",
+		"initialize" : "jm 2/13/2009 14:59",
+		"mouseDown:" : "jens 3/7/2009 22:24",
+		"mouseEnter:" : "jens 3/7/2009 22:44",
+		"mouseLeave:" : "jm 10/28/2008 12:25",
+		"normalColor" : "ee 5/1/2009 13:03",
+		"selector" : "jm 11/10/2008 12:48",
+		"target:selector:" : "jm 10/28/2008 12:50" } }

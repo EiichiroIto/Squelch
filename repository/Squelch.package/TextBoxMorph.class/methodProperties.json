@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addLine:" : "jm 4/26/2008 14:14",
+		"addWord:" : "jm 4/26/2008 13:35",
+		"clear" : "jm 4/25/2008 18:36",
+		"contents" : "jm 4/26/2008 14:03",
+		"extent:" : "jm 4/26/2008 13:59",
+		"fixLayout" : "jm 4/25/2008 18:34",
+		"handlesMouseDown:" : "jm 4/29/2008 08:11",
+		"initialize" : "jm 4/29/2008 08:03",
+		"insertLine:at:" : "jm 4/26/2008 14:05",
+		"isNumber:" : "jm 4/26/2008 13:42",
+		"line:" : "jm 4/26/2008 13:55",
+		"lineCount" : "jm 4/26/2008 13:56",
+		"mouseDown:" : "jm 4/29/2008 08:11",
+		"mouseMove:" : "jm 4/29/2008 08:11",
+		"removeLine:" : "jm 4/26/2008 14:07",
+		"reverse" : "jm 4/29/2008 08:25",
+		"sort" : "jm 4/26/2008 14:17",
+		"word:of:" : "jm 4/26/2008 13:55",
+		"wordCount:" : "jm 4/26/2008 13:50" } }

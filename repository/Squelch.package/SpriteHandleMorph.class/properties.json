@@ -1,0 +1,17 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Current" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"type",
+		"offset",
+		"target",
+		"reversed" ],
+	"name" : "SpriteHandleMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

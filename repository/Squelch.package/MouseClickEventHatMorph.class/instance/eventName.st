@@ -1,0 +1,4 @@
+other
+eventName
+
+	^ 'Scratch-MouseClickEvent'

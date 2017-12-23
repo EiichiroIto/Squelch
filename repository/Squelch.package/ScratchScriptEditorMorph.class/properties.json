@@ -1,0 +1,23 @@
+{
+	"category" : "Squelch-UI-Panes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 6/29/2004 16:15",
+	"instvars" : [
+		"thumbnailMorph",
+		"nameMorph",
+		"pageViewerMorph",
+		"rotationButtons",
+		"lockButton",
+		"readoutMorphs",
+		"penReadout",
+		"currentCategory",
+		"tabPaneMorph",
+		"deleteButton" ],
+	"name" : "ScratchScriptEditorMorph",
+	"pools" : [
+		 ],
+	"super" : "DividedImageFrameMorph",
+	"type" : "normal" }

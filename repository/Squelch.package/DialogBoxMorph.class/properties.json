@@ -1,0 +1,33 @@
+{
+	"category" : "Squelch-UI-Dialogs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 5/14/2005 16:21",
+	"instvars" : [
+		"titleMorph",
+		"buttonRow",
+		"messageLineMorphs",
+		"percentMorph",
+		"done",
+		"response",
+		"topLeftForms",
+		"topRightForms",
+		"bottomLeftForms",
+		"bottomRightForms",
+		"topEdgeForms",
+		"leftEdgeForms",
+		"rightEdgeForms",
+		"bottomEdgeForms",
+		"mainColumn",
+		"shortcutColumn",
+		"fileInfoColumn",
+		"titleBin",
+		"bottomSpacer",
+		"tabFields" ],
+	"name" : "DialogBoxMorph",
+	"pools" : [
+		 ],
+	"super" : "ImageFrameMorph",
+	"type" : "normal" }

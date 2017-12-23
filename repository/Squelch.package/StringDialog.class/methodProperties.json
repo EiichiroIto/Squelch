@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"ask:" : "ee 6/22/2005 15:25",
+		"ask:initialAnswer:" : "jm 5/14/2005 19:04",
+		"askWithCancel:" : "jm 9/10/2004 21:01",
+		"askWithCancel:initialAnswer:" : "jm 5/14/2005 19:04" },
+	"instance" : {
+		"accept" : "jm 9/11/2004 09:03",
+		"getUserResponse" : "jm 2/27/2009 17:43",
+		"handlesMouseOver:" : "jm 9/10/2004 20:05",
+		"initialAnswer:" : "jm 9/11/2004 09:04",
+		"initialize" : "ee 4/30/2009 12:01",
+		"mouseEnter:" : "jm 9/11/2004 09:15" } }

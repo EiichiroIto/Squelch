@@ -1,0 +1,30 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"scrollbar",
+		"firstVisibleLine",
+		"visibleWidth",
+		"font",
+		"textColor",
+		"selectionColor",
+		"lines",
+		"lineHeight",
+		"isEditable",
+		"hasFocus",
+		"selectionStart",
+		"selectionEnd",
+		"startLoc",
+		"layoutNeeded",
+		"renderer",
+		"blinkState",
+		"backForm" ],
+	"name" : "ScrollingStringMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

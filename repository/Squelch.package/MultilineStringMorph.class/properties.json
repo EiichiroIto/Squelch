@@ -1,0 +1,30 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 12/8/2006 12:28",
+	"instvars" : [
+		"font",
+		"textColor",
+		"selectionColor",
+		"lines",
+		"isEditable",
+		"centerText",
+		"hasFocus",
+		"selectionStart",
+		"selectionEnd",
+		"startLoc",
+		"blinkState",
+		"growWithText",
+		"renderer",
+		"suppressAntiAliasing",
+		"renderWithSqueak",
+		"inset",
+		"lineHeight" ],
+	"name" : "MultilineStringMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

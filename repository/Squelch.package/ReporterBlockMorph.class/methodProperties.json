@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptsTypeOf:" : "jm 3/28/2005 19:22",
+		"computeHighlightColors" : "jm 3/30/2005 09:21",
+		"createWatcher" : "jm 11/30/2007 19:23",
+		"drawBooleanOn:" : "jm 3/30/2005 09:37",
+		"drawNumericOn:" : "jm 3/30/2005 08:15",
+		"drawOn:" : "jm 3/28/2005 13:16",
+		"fieldsVersion" : "jm 5/15/2005 10:27",
+		"fixBlockLayout" : "EiichiroIto 9/29/2016 17:35",
+		"getAssociatedSprite" : "jm 12/1/2007 20:49",
+		"initFieldsFrom:version:" : "jm 5/15/2005 10:27",
+		"initialize" : "jm 3/31/2005 19:39",
+		"isBoolean:" : "jm 3/28/2005 12:59",
+		"isBooleanReporter" : "jm 3/28/2005 19:14",
+		"isReporter" : "jm 3/31/2005 19:38",
+		"showValue" : "ee 3/28/2009 18:42",
+		"storeFieldsOn:" : "jm 5/11/2005 10:50",
+		"toggleProcess" : "jm 3/20/2009 19:54",
+		"toggleWatcher" : "EiichiroIto 9/29/2016 17:35" } }

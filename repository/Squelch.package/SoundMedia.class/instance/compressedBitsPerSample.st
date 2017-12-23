@@ -1,0 +1,4 @@
+compressing
+compressedBitsPerSample
+
+	^ compressedBitsPerSample

@@ -1,0 +1,4 @@
+accessing
+tabPane
+
+	^ tabPaneMorph

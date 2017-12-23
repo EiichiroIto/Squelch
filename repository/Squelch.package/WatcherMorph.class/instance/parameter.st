@@ -1,0 +1,4 @@
+accessing
+parameter
+
+	^ readout parameter

@@ -1,0 +1,17 @@
+{
+	"category" : "Squelch-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"labelMorph",
+		"showHideMorph",
+		"commentMorph",
+		"isShowing" ],
+	"name" : "CommentBlockMorph",
+	"pools" : [
+		 ],
+	"super" : "BlockMorph",
+	"type" : "normal" }

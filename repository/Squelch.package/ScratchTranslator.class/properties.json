@@ -1,0 +1,30 @@
+{
+	"category" : "Squelch-Translation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ColonSuffix",
+		"EllipsesSuffix",
+		"HeaderString",
+		"ISODict",
+		"IsRTL",
+		"IsRTLMath",
+		"Language",
+		"MIDITranslationSet",
+		"RenderCenterOffsetCache",
+		"RenderFont",
+		"RenderHintString",
+		"RenderScale",
+		"RenderSuppressBold",
+		"RenderVerticalTrimCache",
+		"RenderWithSqueak",
+		"TranslationDict",
+		"UITranslationSet" ],
+	"commentStamp" : "jm 6/2/2008 15:11",
+	"instvars" : [
+		 ],
+	"name" : "ScratchTranslator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

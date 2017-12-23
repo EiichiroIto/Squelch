@@ -1,0 +1,25 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"labelMorph",
+		"resizeMorph",
+		"commentMorph",
+		"showHideMorph",
+		"isShowing",
+		"isResizing",
+		"resizeOffset",
+		"connector",
+		"anchor",
+		"anchorOffset",
+		"oldAnchorPos",
+		"lastLayoutTime" ],
+	"name" : "ScratchCommentMorph",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorph",
+	"type" : "normal" }

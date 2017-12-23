@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-UI-Watchers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"deleteMorph" ],
+	"name" : "ListMultilineStringMorph",
+	"pools" : [
+		 ],
+	"super" : "MultilineStringMorph",
+	"type" : "normal" }

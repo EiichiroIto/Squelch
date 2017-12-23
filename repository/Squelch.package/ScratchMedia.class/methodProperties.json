@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"infoString" : "jm 6/3/2004 18:23",
+		"initFieldsFrom:version:" : "jm 6/1/2004 16:57",
+		"initialize" : "jm 5/15/2004 22:02",
+		"isImage" : "jm 6/29/2004 21:53",
+		"isMovie" : "jm 5/17/2004 11:09",
+		"isSound" : "jm 5/10/2004 18:47",
+		"mediaName" : "jm 5/4/2004 15:41",
+		"mediaName:" : "tis 8/15/2006 00:50",
+		"mediaSizeInKilobytes" : "jm 10/20/2007 19:43",
+		"mediaStep" : "jm 5/14/2004 21:16",
+		"mediaType" : "jm 5/12/2004 16:26",
+		"printOn:" : "jm 5/12/2004 16:28",
+		"resumePlaying" : "jm 5/15/2004 20:47",
+		"revertToUncompressed" : "jm 10/17/2007 13:04",
+		"startPlaying" : "jm 5/14/2004 21:07",
+		"stopPlaying" : "jm 5/14/2004 21:07",
+		"storeFieldsOn:" : "jm 6/1/2004 16:57",
+		"suspendPlaying" : "jm 5/15/2004 20:48",
+		"thumbnailFormExtent:" : "jm 6/3/2004 18:21" } }

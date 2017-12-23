@@ -1,0 +1,3 @@
+*Squelch
+beep
+	"do nothing"

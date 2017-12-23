@@ -1,0 +1,15 @@
+{
+	"category" : "Squelch-UI-Panes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 8/3/2003 09:30",
+	"instvars" : [
+		"feedbackMorph",
+		"screenshooting" ],
+	"name" : "ScratchScriptsMorph",
+	"pools" : [
+		 ],
+	"super" : "PasteUpMorph",
+	"type" : "normal" }

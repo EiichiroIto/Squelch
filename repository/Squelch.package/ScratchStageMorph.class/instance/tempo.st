@@ -1,0 +1,4 @@
+sound ops
+tempo
+
+	^ tempoBPM

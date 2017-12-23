@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"beDoubleSize" : "jm 10/21/2005 11:45",
+		"buttons" : "jm 12/2/2005 18:51",
+		"clearUnclaimedKeystrokes" : "EiichiroIto 10/17/2016 17:46",
+		"drawOn:" : "EiichiroIto 11/3/2016 21:52",
+		"exitPresentation" : "EiichiroIto 11/3/2016 21:49",
+		"extent:" : "jm 8/3/2005 11:45",
+		"fixLayout" : "EiichiroIto 11/3/2016 21:49",
+		"frame:" : "EiichiroIto 10/17/2016 21:04",
+		"handlesMouseDown:" : "jm 10/22/2005 14:00",
+		"initialize" : "EiichiroIto 11/3/2016 21:50",
+		"mouseDown:" : "EiichiroIto 10/17/2016 21:08",
+		"mouseMove:" : "EiichiroIto 10/17/2016 21:09",
+		"mouseUp:" : "EiichiroIto 10/17/2016 21:09",
+		"nextUnclaimedKeystrokeOrNil" : "EiichiroIto 10/17/2016 17:47",
+		"processEvent:using:" : "EiichiroIto 10/17/2016 17:51",
+		"processKeyboardEvents" : "EiichiroIto 10/17/2016 17:48",
+		"processWhenConditions" : "jm 6/4/2009 12:48",
+		"recordUnclaimedKeystroke:" : "EiichiroIto 10/17/2016 17:47",
+		"shoutGo" : "EiichiroIto 10/17/2016 17:55",
+		"step" : "jm 3/24/2009 17:26",
+		"stepSubmorphs" : "jm 3/24/2009 17:30",
+		"stepTime" : "jm 8/3/2005 11:26",
+		"stopAll" : "jm 8/3/2008 14:15" } }

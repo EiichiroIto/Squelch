@@ -1,0 +1,25 @@
+{
+	"category" : "Squelch-Sound",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"recorder",
+		"timerMorph",
+		"currentMode",
+		"recordMeter",
+		"modeButtonsPane",
+		"client",
+		"duration",
+		"savedMeterLevels",
+		"curStep",
+		"recorderBackgroundLeft",
+		"recorderBackgroundCenter",
+		"recorderBackgroundRight" ],
+	"name" : "ScratchSoundRecorderDialogMorph",
+	"pools" : [
+		 ],
+	"super" : "DialogBoxMorph",
+	"type" : "normal" }

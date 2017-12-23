@@ -1,0 +1,16 @@
+{
+	"category" : "Squelch-UI-Dialogs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"minMorph",
+		"maxMorph",
+		"radioButtons" ],
+	"name" : "SliderRangeDialog",
+	"pools" : [
+		 ],
+	"super" : "DialogBoxMorph",
+	"type" : "normal" }

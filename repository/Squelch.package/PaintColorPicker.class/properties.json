@@ -1,0 +1,21 @@
+{
+	"category" : "Squelch-Paint",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectedColor",
+		"target",
+		"selector",
+		"selector2",
+		"shadePickerContainer",
+		"colorPickerImage",
+		"colorPickerContainer",
+		"shadePickerImage" ],
+	"name" : "PaintColorPicker",
+	"pools" : [
+		 ],
+	"super" : "ImageFrameMorph2",
+	"type" : "normal" }

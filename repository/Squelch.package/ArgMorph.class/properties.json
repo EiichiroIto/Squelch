@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DropDownMenuForm" ],
+	"commentStamp" : "jm 3/15/2003 12:22",
+	"instvars" : [
+		"labelMorph" ],
+	"name" : "ArgMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"isBoolean" ],
+	"name" : "ReporterBlockMorph",
+	"pools" : [
+		 ],
+	"super" : "CommandBlockMorph",
+	"type" : "normal" }

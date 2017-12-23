@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 2/20/2004 18:45",
+	"instvars" : [
+		 ],
+	"name" : "VariableBlockMorph",
+	"pools" : [
+		 ],
+	"super" : "ReporterBlockMorph",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+cursor
+
+	^ editor cursor

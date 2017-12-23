@@ -1,0 +1,25 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"target",
+		"selector",
+		"sliderStart",
+		"sliderLength",
+		"frameStartForm",
+		"frameMiddleForm",
+		"frameEndForm",
+		"sliderStartForm",
+		"sliderMiddleForm",
+		"sliderEndForm",
+		"sliderInsets",
+		"dragOffset" ],
+	"name" : "ScratchScrollBar",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

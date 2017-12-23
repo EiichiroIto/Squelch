@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ScratchReporterToolTipMorph",
+	"pools" : [
+		 ],
+	"super" : "ScratchToolTipMorph",
+	"type" : "normal" }

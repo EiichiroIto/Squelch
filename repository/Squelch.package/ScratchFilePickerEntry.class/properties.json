@@ -1,0 +1,18 @@
+{
+	"category" : "Squelch-UI-Dialogs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 3/9/2005 11:40",
+	"instvars" : [
+		"nameMorph",
+		"highlit",
+		"directory",
+		"entryName",
+		"entryIsDirectory" ],
+	"name" : "ScratchFilePickerEntry",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

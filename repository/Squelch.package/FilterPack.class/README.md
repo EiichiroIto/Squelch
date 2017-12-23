@@ -1,0 +1,1 @@
+I implement a fixed-order chain of image effects. Only the active filters are applied.

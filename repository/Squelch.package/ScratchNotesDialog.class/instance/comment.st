@@ -1,0 +1,4 @@
+other
+comment
+
+	^ commentMorph contents

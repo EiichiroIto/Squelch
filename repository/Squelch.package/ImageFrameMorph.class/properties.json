@@ -1,0 +1,24 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 10/20/2008 15:59",
+	"instvars" : [
+		"frameInFront",
+		"topLeftForm",
+		"topRightForm",
+		"bottomLeftForm",
+		"bottomRightForm",
+		"topEdgeForm",
+		"leftEdgeForm",
+		"rightEdgeForm",
+		"bottomEdgeForm",
+		"myBox",
+		"edgeCache" ],
+	"name" : "ImageFrameMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

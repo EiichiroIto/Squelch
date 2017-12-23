@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"points" ],
+	"name" : "PenPointRecorder",
+	"pools" : [
+		 ],
+	"super" : "Pen",
+	"type" : "normal" }

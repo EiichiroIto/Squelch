@@ -1,0 +1,4 @@
+accessing
+objName
+
+	^ 'Stage' localized

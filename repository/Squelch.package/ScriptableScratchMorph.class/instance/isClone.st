@@ -1,0 +1,4 @@
+accessing
+isClone
+
+	^ false

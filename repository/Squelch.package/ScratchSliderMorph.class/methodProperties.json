@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildNumberBox" : "jm 6/14/2004 20:29",
+		"fieldsVersion" : "jm 9/25/2003 11:16",
+		"fixLayoutOf:" : "jm 6/14/2004 20:32",
+		"initFieldsFrom:version:" : "jm 9/25/2003 11:27",
+		"initialize" : "jm 6/14/2004 20:28",
+		"slider" : "TIS 7/10/2003 14:08",
+		"step" : "jm 6/14/2004 20:33",
+		"stepTime" : "tis 7/7/2003 12:57",
+		"storeFieldsOn:" : "jm 9/25/2003 11:28",
+		"target" : "jm 9/25/2003 11:20",
+		"target:" : "jm 6/14/2004 20:25",
+		"updateActionSelector" : "jm 11/15/2006 11:27",
+		"updateSliderPosition" : "jm 11/15/2006 11:37",
+		"variable" : "jm 9/25/2003 11:23",
+		"variable:" : "jm 9/25/2003 11:23" } }

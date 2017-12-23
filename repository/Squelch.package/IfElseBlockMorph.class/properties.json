@@ -1,0 +1,21 @@
+{
+	"category" : "Squelch-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 12/13/2005 20:51",
+	"instvars" : [
+		"trueBlock",
+		"falseBlock",
+		"nextBlock",
+		"elseLabel",
+		"elseBarY",
+		"topBarBottom",
+		"blockBottom",
+		"elseMorph" ],
+	"name" : "IfElseBlockMorph",
+	"pools" : [
+		 ],
+	"super" : "CommandBlockMorph",
+	"type" : "normal" }

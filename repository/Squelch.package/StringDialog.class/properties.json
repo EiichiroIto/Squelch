@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-UI-Dialogs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"typeinMorph" ],
+	"name" : "StringDialog",
+	"pools" : [
+		 ],
+	"super" : "DialogBoxMorph",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"category" : "Squelch-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cameraNum",
+		"frameExtent",
+		"frameForm",
+		"prevFrameForm",
+		"historyForm" ],
+	"name" : "CameraMedia",
+	"pools" : [
+		 ],
+	"super" : "ScratchMedia",
+	"type" : "normal" }

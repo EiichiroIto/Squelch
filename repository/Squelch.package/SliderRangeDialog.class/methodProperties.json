@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"initialMin:max:" : "jm 11/21/2006 11:54" },
+	"instance" : {
+		"accept" : "jm 9/11/2004 09:03",
+		"getUserResponse" : "jm 2/27/2009 17:42",
+		"handlesMouseOver:" : "jm 9/10/2004 20:05",
+		"initialMin:max:" : "jm 11/21/2006 11:22",
+		"initialize" : "ee 8/8/2008 10:28",
+		"mouseEnter:" : "jm 11/21/2006 11:25" } }

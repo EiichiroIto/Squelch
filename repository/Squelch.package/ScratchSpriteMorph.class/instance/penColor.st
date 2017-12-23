@@ -1,0 +1,4 @@
+pen ops
+penColor
+
+	^ penColor

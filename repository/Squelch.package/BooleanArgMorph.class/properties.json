@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BooleanArgMorph",
+	"pools" : [
+		 ],
+	"super" : "ArgMorph",
+	"type" : "normal" }

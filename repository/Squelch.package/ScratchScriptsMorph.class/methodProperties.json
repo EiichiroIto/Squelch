@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"cleanUp" : "EiichiroIto 9/15/2016 17:07",
+		"drawOn:" : "jens 3/9/2009 13:25",
+		"fieldsVersion" : "jm 9/30/2003 21:29",
+		"handlesMouseDown:" : "md 2/18/2004 14:58",
+		"initialize" : "ee 11/4/2008 11:49",
+		"isScreenshooting" : "jens 3/9/2009 13:02",
+		"mouseDown:" : "EiichiroIto 9/29/2016 17:38",
+		"mouseEnterDragging:" : "EiichiroIto 9/29/2016 17:39",
+		"mouseHold:" : "EiichiroIto 9/29/2016 17:39",
+		"screenshot" : "EiichiroIto 10/3/2016 16:54",
+		"showCommentDropFeedback" : "jens 3/3/2009 21:46",
+		"showDeleteFeedback" : "ee 1/1/2006 15:42",
+		"step" : "jens 3/3/2009 21:42",
+		"stepTime" : "md 2/20/2004 17:31",
+		"topArgMorphAt:exclude:" : "ee 10/12/2007 12:44",
+		"topBlockMorphAt:exclude:" : "md 3/1/2004 16:45" } }

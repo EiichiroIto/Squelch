@@ -1,0 +1,1 @@
+This class may eventually replace ScratchProcess and ScratchStackFrame. The current version operates on tuples rather than on command blocks. It was written as a test before implementing the same code in Java for the Java Scratch player.

@@ -1,0 +1,17 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"leftPointerForm",
+		"rightPointerForm",
+		"pointLeft",
+		"contentsMorph" ],
+	"name" : "ScratchTalkBubbleMorph",
+	"pools" : [
+		 ],
+	"super" : "ImageFrameMorph",
+	"type" : "normal" }

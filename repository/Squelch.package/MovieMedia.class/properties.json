@@ -1,0 +1,28 @@
+{
+	"category" : "Squelch-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 5/13/2004 17:20",
+	"instvars" : [
+		"fileName",
+		"fade",
+		"fadeColor",
+		"zoom",
+		"hPan",
+		"vPan",
+		"msecsPerFrame",
+		"currentFrame",
+		"moviePlaying",
+		"movieFile",
+		"sound",
+		"origForm",
+		"outForm",
+		"appearanceChanged",
+		"lastFrameMSecs" ],
+	"name" : "MovieMedia",
+	"pools" : [
+		 ],
+	"super" : "ScratchMedia",
+	"type" : "normal" }

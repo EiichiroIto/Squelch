@@ -1,0 +1,19 @@
+{
+	"category" : "Squelch-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 12/7/2002 16:07",
+	"instvars" : [
+		"nestedBlock",
+		"nextBlock",
+		"topBarBottom",
+		"blockBottom",
+		"loopMorph",
+		"stretchHeight" ],
+	"name" : "CBlockMorph",
+	"pools" : [
+		 ],
+	"super" : "CommandBlockMorph",
+	"type" : "normal" }

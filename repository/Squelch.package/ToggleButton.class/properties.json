@@ -1,0 +1,24 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 8/22/2006 08:22",
+	"instvars" : [
+		"onForm",
+		"offForm",
+		"overForm",
+		"disabledForm",
+		"isMomentary",
+		"toggleMode",
+		"isOn",
+		"isDisabled",
+		"isOver",
+		"wasOn",
+		"alphaOn" ],
+	"name" : "ToggleButton",
+	"pools" : [
+		 ],
+	"super" : "SimpleButtonMorph",
+	"type" : "normal" }

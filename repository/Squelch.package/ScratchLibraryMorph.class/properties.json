@@ -1,0 +1,20 @@
+{
+	"category" : "Squelch-UI-Panes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 10/28/2008 10:13",
+	"instvars" : [
+		"scrollPane",
+		"stagePane",
+		"thumbWidth",
+		"itemExtent",
+		"spritePane",
+		"buttonPane",
+		"spriteLabel" ],
+	"name" : "ScratchLibraryMorph",
+	"pools" : [
+		 ],
+	"super" : "DividedImageFrameMorph",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tileForm" ],
+	"name" : "TiledImageMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

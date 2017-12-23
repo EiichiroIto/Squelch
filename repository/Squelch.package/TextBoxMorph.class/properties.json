@@ -1,0 +1,15 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 5/6/2008 18:15",
+	"instvars" : [
+		"contentsMorph",
+		"resizeMode" ],
+	"name" : "TextBoxMorph",
+	"pools" : [
+		 ],
+	"super" : "ImageFrameMorph",
+	"type" : "normal" }

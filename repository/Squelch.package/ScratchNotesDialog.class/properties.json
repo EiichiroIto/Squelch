@@ -1,0 +1,15 @@
+{
+	"category" : "Squelch-UI-Dialogs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"scratchFrame",
+		"commentMorph" ],
+	"name" : "ScratchNotesDialog",
+	"pools" : [
+		 ],
+	"super" : "DialogBoxMorph",
+	"type" : "normal" }

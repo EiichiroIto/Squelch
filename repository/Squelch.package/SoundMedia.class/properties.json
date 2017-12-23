@@ -1,0 +1,21 @@
+{
+	"category" : "Squelch-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"PlaceholderSound" ],
+	"commentStamp" : "jm 5/15/2004 21:24",
+	"instvars" : [
+		"originalSound",
+		"volume",
+		"balance",
+		"playingSound",
+		"compressedSampleRate",
+		"compressedBitsPerSample",
+		"compressedData",
+		"savedSound" ],
+	"name" : "SoundMedia",
+	"pools" : [
+		 ],
+	"super" : "ScratchMedia",
+	"type" : "normal" }

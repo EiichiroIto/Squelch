@@ -1,0 +1,4 @@
+private
+defaultWidth
+
+	^ 112

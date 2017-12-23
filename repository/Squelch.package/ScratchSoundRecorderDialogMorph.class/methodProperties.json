@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"forClient:" : "ee 6/20/2005 12:47" },
+	"instance" : {
+		"buttonType:action:" : "jm 3/21/2008 14:10",
+		"cancelled" : "jm 5/10/2006 11:37",
+		"client:" : "ee 6/16/2005 12:08",
+		"convertToMmss:" : "ee 9/16/2005 10:13",
+		"drawOn:" : "ee 6/28/2008 14:35",
+		"initialize" : "EiichiroIto 10/12/2016 21:41",
+		"makeModeButtonsPane" : "EiichiroIto 10/12/2016 21:40",
+		"makeRecordMeter" : "ee 6/26/2008 17:55",
+		"makeRecordTimer" : "ee 6/26/2008 17:55",
+		"play" : "ee 6/23/2005 14:33",
+		"record" : "ee 6/26/2005 01:11",
+		"setMode:" : "jm 8/22/2006 07:49",
+		"setMode:isDisabled:" : "jm 8/22/2006 07:49",
+		"startStepping" : "ee 6/16/2005 12:24",
+		"step" : "jm 9/20/2005 16:08",
+		"stepTime" : "ee 6/20/2005 15:58",
+		"stop" : "jm 9/25/2006 11:59",
+		"stopStepping" : "ee 6/20/2005 13:10",
+		"updateTime" : "ee 9/16/2005 10:12",
+		"yes" : "ee 11/12/2007 15:20" } }

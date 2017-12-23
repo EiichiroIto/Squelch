@@ -1,0 +1,3 @@
+*Squelch
+forceUnicodeRendering
+	^ false

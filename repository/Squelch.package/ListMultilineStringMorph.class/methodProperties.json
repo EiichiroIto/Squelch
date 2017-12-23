@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"extent:" : "ee 5/14/2009 13:51",
+		"fixLayout" : "ee 3/2/2009 11:20",
+		"handlesMouseOver:" : "ee 2/1/2009 12:59",
+		"initialize" : "ee 2/3/2009 13:24",
+		"keyStroke:" : "EiichiroIto 9/29/2016 17:37",
+		"keyboardFocusChange:" : "ee 2/12/2009 15:09",
+		"mouseDown:" : "EiichiroIto 9/29/2016 17:37" } }

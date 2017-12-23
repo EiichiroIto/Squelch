@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptEdits" : "jm 7/2/2008 14:22",
+		"getSelector:" : "jm 7/2/2008 13:58",
+		"initialize" : "jm 7/4/2008 12:27",
+		"isEditable" : "jm 7/2/2008 13:58",
+		"putSelector:" : "jm 7/2/2008 13:58",
+		"step" : "EiichiroIto 9/25/2016 22:59",
+		"target" : "jm 7/2/2008 13:59",
+		"target:" : "jm 7/2/2008 13:59" } }

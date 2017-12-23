@@ -1,0 +1,17 @@
+{
+	"category" : "Squelch-Sound",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"done",
+		"selectedVal",
+		"labelMorph",
+		"notePlayer" ],
+	"name" : "ScratchNoteSelector",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

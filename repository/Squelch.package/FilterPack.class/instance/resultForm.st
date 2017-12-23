@@ -1,0 +1,4 @@
+accessing
+resultForm
+
+	^ resultForm

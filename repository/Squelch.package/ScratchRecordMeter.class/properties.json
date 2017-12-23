@@ -1,0 +1,16 @@
+{
+	"category" : "Squelch-Sound",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lineForm",
+		"level",
+		"meter" ],
+	"name" : "ScratchRecordMeter",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

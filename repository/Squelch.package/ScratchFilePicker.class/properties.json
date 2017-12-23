@@ -1,0 +1,32 @@
+{
+	"category" : "Squelch-UI-Dialogs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 3/9/2005 11:40",
+	"instvars" : [
+		"directoryBarMorph",
+		"contentsPaneMorph",
+		"feedbackMorph",
+		"scratchInfoClient",
+		"currentDir",
+		"extensions",
+		"fetchInProgress",
+		"showThumbnails",
+		"thumbnailFetchProcess",
+		"scratchServers",
+		"scratchProjectFetcher",
+		"lastUpMSecs",
+		"wasSelected",
+		"isDoubleClick",
+		"sound",
+		"finalSelection",
+		"freezeFocus",
+		"topBarMorph",
+		"directoryBarArrowMorph" ],
+	"name" : "ScratchFilePicker",
+	"pools" : [
+		 ],
+	"super" : "ImageFrameMorph",
+	"type" : "normal" }

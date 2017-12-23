@@ -1,0 +1,3 @@
+scratch skin
+skin
+	^ ScratchSkin

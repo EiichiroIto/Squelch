@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-Paint",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PaintColorSquarePicker",
+	"pools" : [
+		 ],
+	"super" : "PaintColorPicker",
+	"type" : "normal" }

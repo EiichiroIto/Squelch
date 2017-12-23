@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"choice" : "jm 8/24/2003 18:26",
+		"choice:" : "EiichiroIto 9/29/2016 18:11",
+		"defaultValue:" : "jm 3/28/2005 15:13",
+		"evaluate" : "jm 8/24/2003 18:33",
+		"fieldsVersion" : "jm 5/14/2004 11:39",
+		"fixArgLayout" : "jm 4/1/2005 20:33",
+		"getOptionsSelector" : "jm 8/6/2008 20:54",
+		"getOptionsSelector:" : "jm 5/14/2004 11:50",
+		"handlesMouseDown:" : "jm 1/23/2007 12:32",
+		"initFieldsFrom:version:" : "jm 5/14/2004 11:54",
+		"initialize" : "jm 7/9/2008 23:27",
+		"mouseDown:" : "jm 12/13/2006 21:35",
+		"options" : "jm 6/10/2004 10:49",
+		"options:" : "jm 8/24/2003 18:32",
+		"presentMenu" : "EiichiroIto 9/29/2016 18:12",
+		"printArgOn:" : "jm 10/30/2005 08:32",
+		"storeFieldsOn:" : "jm 5/14/2004 11:54",
+		"wantsKeyboardFocusFor:" : "jm 12/14/2004 11:51" } }

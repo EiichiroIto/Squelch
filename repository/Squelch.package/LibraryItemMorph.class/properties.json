@@ -1,0 +1,25 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"InfoFont",
+		"NameFont" ],
+	"commentStamp" : "jm 2/25/2005 14:10",
+	"instvars" : [
+		"target",
+		"thumbnailMorph",
+		"nameMorph",
+		"scriptCountMorph",
+		"isSelected",
+		"rolloverOn",
+		"lastUpdateMSecs",
+		"highlightForm",
+		"currentForm",
+		"thumbWidth",
+		"rolloverForm" ],
+	"name" : "LibraryItemMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

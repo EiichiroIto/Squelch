@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createTab:withLabel:onForm:offForm:" : "ee 1/29/2009 11:33",
+		"currentTab" : "ee 2/21/2005 23:30",
+		"currentTab:" : "ee 4/14/2008 15:01",
+		"drawSubmorphsOn:" : "ee 2/5/2009 17:01",
+		"initialize" : "ee 2/3/2009 13:22",
+		"lightUpCurrentTab" : "ee 1/29/2009 12:05",
+		"setLabelForTab:to:" : "nb 3/30/2008 17:15",
+		"tab:label:" : "ee 1/29/2009 11:02",
+		"targetPane" : "ee 2/20/2005 23:51",
+		"targetPane:" : "ee 2/21/2005 23:13" } }

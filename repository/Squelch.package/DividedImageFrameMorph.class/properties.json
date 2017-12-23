@@ -1,0 +1,19 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"topSectionHeight",
+		"middleBarForm",
+		"leftJointForm",
+		"rightJointForm",
+		"leftMargin",
+		"rightMargin" ],
+	"name" : "DividedImageFrameMorph",
+	"pools" : [
+		 ],
+	"super" : "ImageFrameMorph",
+	"type" : "normal" }

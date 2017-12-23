@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parameter" ],
+	"name" : "UpdatingStringMorphWithParameter",
+	"pools" : [
+		 ],
+	"super" : "UpdatingStringMorph",
+	"type" : "normal" }

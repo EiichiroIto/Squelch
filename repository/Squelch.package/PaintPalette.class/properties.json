@@ -1,0 +1,33 @@
+{
+	"category" : "Squelch-Paint",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"canvasMorph",
+		"brushSizeMorph",
+		"brushSize",
+		"eraserSize",
+		"brushIcon",
+		"colorSwitcher",
+		"fillStylePane",
+		"optionsPane",
+		"storedColor",
+		"toolbarButtons",
+		"mode",
+		"storedMode",
+		"shapeFilling",
+		"showRotationCenter",
+		"brushSizeMenu",
+		"textSizeMenu",
+		"textSizeMorph",
+		"textFontMenu",
+		"textFontMorph",
+		"pbFillStyle" ],
+	"name" : "PaintPalette",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+isMovie
+
+	^ true

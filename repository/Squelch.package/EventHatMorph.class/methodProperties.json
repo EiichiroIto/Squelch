@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asBlockTuple" : "jm 3/28/2005 12:42",
+		"eventName" : "jm 3/28/2005 12:32",
+		"eventName:" : "EiichiroIto 9/29/2016 17:35",
+		"forStartEvent" : "EiichiroIto 9/15/2016 14:00",
+		"forceLayout" : "EiichiroIto 9/29/2016 17:35",
+		"helpScreenName" : "jm 3/31/2005 21:41",
+		"initialize" : "jm 9/1/2008 17:03",
+		"printHatNameOn:" : "jm 12/8/2005 19:21",
+		"startForEvent:" : "EiichiroIto 9/29/2016 17:35" } }

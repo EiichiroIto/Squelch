@@ -1,0 +1,32 @@
+{
+	"category" : "Squelch-Paint",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ColorPicker",
+		"SquareColorPicker" ],
+	"commentStamp" : "jm 12/21/2005 18:14",
+	"instvars" : [
+		"canvasMorph",
+		"paletteMorph",
+		"hScrollbar",
+		"vScrollbar",
+		"transformButtons",
+		"canvasButtons",
+		"fileButtons",
+		"colorSquarePicker",
+		"colorPicker",
+		"zoomBar",
+		"canvasFrame",
+		"scratchFrame",
+		"originalObject",
+		"oldCostumeName",
+		"deleteSpriteOnCancel",
+		"setRotationCenterMorph",
+		"setRotationCenterButton",
+		"colorPickerButton" ],
+	"name" : "PaintFrame",
+	"pools" : [
+		 ],
+	"super" : "DialogBoxMorph",
+	"type" : "normal" }

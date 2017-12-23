@@ -1,0 +1,18 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 12/2/2005 18:57",
+	"instvars" : [
+		"target",
+		"showDirection",
+		"lastUpdateMSecs",
+		"lastRotationDegrees",
+		"draggingDirection" ],
+	"name" : "ScratchThumbnailMorph",
+	"pools" : [
+		 ],
+	"super" : "ImageMorph",
+	"type" : "normal" }

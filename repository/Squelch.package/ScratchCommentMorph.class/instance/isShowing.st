@@ -1,0 +1,6 @@
+accessing
+isShowing
+
+
+	^ isShowing
+

@@ -1,0 +1,17 @@
+{
+	"category" : "Squelch-Paint",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"foreground",
+		"background",
+		"switcher",
+		"transparentMorph" ],
+	"name" : "PaintColorSwitcher",
+	"pools" : [
+		 ],
+	"super" : "ImageMorph",
+	"type" : "normal" }

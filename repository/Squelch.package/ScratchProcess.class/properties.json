@@ -1,0 +1,19 @@
+{
+	"category" : "Squelch-Execution Engine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"BlockHighlightMSecs",
+		"Times" ],
+	"commentStamp" : "jm 6/29/2005 18:02",
+	"instvars" : [
+		"stackFrame",
+		"topBlock",
+		"readyToYield",
+		"errorFlag",
+		"readyToTerminate" ],
+	"name" : "ScratchProcess",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

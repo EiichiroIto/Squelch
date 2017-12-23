@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildKeyboard:baseOctave:keyWidth:" : "jm 10/26/2007 08:39",
+		"handlesMouseDown:" : "jm 10/22/2007 23:31",
+		"initialize" : "jm 10/22/2007 23:55",
+		"mouseMove:" : "jm 10/26/2007 08:40",
+		"setNotePlayer:" : "jm 10/22/2007 23:17",
+		"setUpNoteDisplay" : "jm 10/23/2007 00:12",
+		"shutDown" : "NB 10/22/2007 00:55",
+		"startUp" : "jm 10/23/2007 00:19",
+		"step" : "EiichiroIto 9/29/2016 20:36",
+		"stepTime" : "jm 10/26/2007 08:49",
+		"turnOffNote" : "jm 10/26/2007 08:39",
+		"turnOnNote:" : "jm 10/22/2007 23:32",
+		"updateNoteDisplay:" : "jm 10/23/2007 00:17" } }

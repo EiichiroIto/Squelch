@@ -1,0 +1,4 @@
+language translation
+midiTranslationSet
+
+	^ MIDITranslationSet

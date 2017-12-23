@@ -1,0 +1,25 @@
+{
+	"category" : "Squelch-Networking",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 7/31/2008 16:55",
+	"instvars" : [
+		"stage",
+		"userName",
+		"serverSocket",
+		"incomingUDPSocket",
+		"peerSockets",
+		"peerNames",
+		"sensors",
+		"lastSentValues",
+		"incomingBroadcasts",
+		"outgoingBroadcasts",
+		"in",
+		"broadcastCache" ],
+	"name" : "ScratchServer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

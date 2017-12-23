@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"initialize" : "jm 3/29/2005 20:43" },
+	"instance" : {
+		"defaultValue:" : "jm 6/28/2008 12:02",
+		"evaluate" : "jm 5/6/2008 18:57",
+		"fieldsVersion" : "jm 5/6/2008 19:21",
+		"fixArgLayout" : "jm 7/4/2008 17:27",
+		"handlesMouseDown:" : "jm 1/23/2007 12:37",
+		"initFieldsFrom:version:" : "jm 5/6/2008 19:23",
+		"menuSelector" : "jm 5/8/2008 12:08",
+		"menuSelector:" : "jm 12/17/2004 12:54",
+		"mouseDown:" : "EiichiroIto 9/26/2016 22:19",
+		"specialValue:" : "jm 8/4/2008 09:06",
+		"storeFieldsOn:" : "jm 5/6/2008 19:22" } }

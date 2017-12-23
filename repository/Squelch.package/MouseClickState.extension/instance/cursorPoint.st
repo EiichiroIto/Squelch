@@ -1,0 +1,3 @@
+*Squelch
+cursorPoint
+	^ firstClickDown cursorPoint

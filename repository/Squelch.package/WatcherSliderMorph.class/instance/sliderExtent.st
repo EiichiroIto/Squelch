@@ -1,0 +1,4 @@
+private
+sliderExtent
+
+	^ slider extent

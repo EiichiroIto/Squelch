@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptDroppingMorph:event:" : "EiichiroIto 9/29/2016 17:39",
+		"insertItem:before:" : "EiichiroIto 9/29/2016 17:39",
+		"isPartsBin" : "tis 10/1/2006 15:08",
+		"rootForGrabOf:" : "tis 10/1/2006 15:43",
+		"wantsDroppedMorph:event:" : "tis 10/1/2006 15:10" } }

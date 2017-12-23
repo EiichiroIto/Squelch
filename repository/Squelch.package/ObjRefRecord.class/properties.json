@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-Object IO",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 9/28/2003 11:18",
+	"instvars" : [
+		"objectID" ],
+	"name" : "ObjRefRecord",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

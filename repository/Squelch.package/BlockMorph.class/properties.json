@@ -1,0 +1,31 @@
+{
+	"category" : "Squelch-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ArgFont",
+		"CBlockBracketThickness",
+		"DebugMenu",
+		"LabelColor",
+		"LabelFont",
+		"PuzzleInset",
+		"PuzzleWidth" ],
+	"commentStamp" : "jm 3/13/2003 17:16",
+	"instvars" : [
+		"isSpecialForm",
+		"oldColor",
+		"highlightColor1",
+		"highlightColor2",
+		"shadowColor",
+		"scratchProc",
+		"hadError",
+		"blockLayoutNeeded",
+		"cachedForm",
+		"cachedFeedbackForm",
+		"copyTooltip",
+		"lastLayoutTime" ],
+	"name" : "BlockMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 5/17/2005 20:10",
+	"instvars" : [
+		"serverName",
+		"path",
+		"fetcher" ],
+	"name" : "ScratchServerDirectory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

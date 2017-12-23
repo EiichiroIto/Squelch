@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 5/10/2004 18:45",
+	"instvars" : [
+		"mediaName" ],
+	"name" : "ScratchMedia",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

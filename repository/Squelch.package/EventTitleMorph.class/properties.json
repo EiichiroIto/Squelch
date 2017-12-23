@@ -1,0 +1,14 @@
+{
+	"category" : "Squelch-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 3/28/2005 15:16",
+	"instvars" : [
+		"menuIconMorph" ],
+	"name" : "EventTitleMorph",
+	"pools" : [
+		 ],
+	"super" : "ArgMorph",
+	"type" : "normal" }

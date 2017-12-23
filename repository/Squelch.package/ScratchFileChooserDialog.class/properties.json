@@ -1,0 +1,28 @@
+{
+	"category" : "Squelch-UI-Dialogs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastFolderForType",
+		"UserHomeFolder" ],
+	"commentStamp" : "jm 5/20/2005 20:06",
+	"instvars" : [
+		"scratchFrame",
+		"list",
+		"choosingFolder",
+		"newFileTitle",
+		"newFileName",
+		"thumbnailFrameMorph",
+		"thumbnailMorph",
+		"authorLabelMorph",
+		"authorMorph",
+		"commentLabelMorph",
+		"commentMorph",
+		"readingScratchFile",
+		"type",
+		"newTitleBin" ],
+	"name" : "ScratchFileChooserDialog",
+	"pools" : [
+		 ],
+	"super" : "DialogBoxMorph",
+	"type" : "normal" }

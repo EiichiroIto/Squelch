@@ -1,0 +1,16 @@
+{
+	"category" : "Squelch-UI-Dialogs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ThumbnailFileName" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"directory",
+		"fileSizes",
+		"dict" ],
+	"name" : "ThumbnailCache",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

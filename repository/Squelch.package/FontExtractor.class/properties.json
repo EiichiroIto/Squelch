@@ -1,0 +1,21 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 2/20/2005 13:42",
+	"instvars" : [
+		"strikeForm",
+		"markerGlyph",
+		"fontAscent",
+		"fontHeight",
+		"spaceWidth",
+		"charOffset",
+		"basePix",
+		"lineForms" ],
+	"name" : "FontExtractor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

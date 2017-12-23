@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"areasRemainingToFill:" : "jm 10/26/2008 17:38",
+		"drawBackgroundOn:" : "jm 10/26/2008 10:54",
+		"drawBottomEdgeOn:" : "jm 10/25/2008 23:58",
+		"drawCornersOn:" : "jm 10/20/2008 16:02",
+		"drawFrameOn:" : "jm 10/26/2008 00:11",
+		"drawLeftEdgeOn:" : "jm 10/25/2008 23:55",
+		"drawOn:" : "jm 10/26/2008 10:54",
+		"drawRightEdgeOn:" : "jm 10/25/2008 23:54",
+		"drawTopEdgeOn:" : "jm 10/25/2008 23:57",
+		"fullDrawOn:" : "EiichiroIto 9/15/2016 12:55",
+		"hasTranslucentColor" : "jm 5/14/2005 19:32",
+		"initFromForm:" : "jm 5/14/2005 16:04",
+		"initFrontFromForm:" : "jm 10/25/2008 16:20",
+		"initialize" : "jm 12/9/2008 12:26",
+		"insetBottom" : "jm 11/29/2006 16:30",
+		"minExtent" : "jm 2/7/2008 08:54",
+		"orgMinExtent" : "EiichiroIto 9/30/2016 17:16" } }

@@ -1,0 +1,30 @@
+{
+	"category" : "Squelch-UI-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"label2",
+		"iconMorph",
+		"current",
+		"normal",
+		"pressed",
+		"over",
+		"labelColorOff",
+		"labelColorOn",
+		"labelColorOver",
+		"isOn",
+		"wasOn",
+		"toggleMode",
+		"toggleButtonMode",
+		"justification",
+		"padding",
+		"hOffset",
+		"vOffset" ],
+	"name" : "ResizableToggleButton2",
+	"pools" : [
+		 ],
+	"super" : "SimpleButtonMorph",
+	"type" : "normal" }

@@ -1,0 +1,21 @@
+{
+	"category" : "Squelch-Execution Engine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"SystemCommands" ],
+	"commentStamp" : "jm 11/15/2006 16:52",
+	"instvars" : [
+		"sprite",
+		"cmds",
+		"ip",
+		"stack",
+		"yield",
+		"done",
+		"startTime",
+		"tmp" ],
+	"name" : "ScratchThread",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
