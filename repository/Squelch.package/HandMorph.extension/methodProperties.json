@@ -1,12 +1,6 @@
 {
 	"class" : {
-		"characterForScanCode:" : "EiichiroIto 10/1/2016 19:43",
-		"clearKeyState" : "EiichiroIto 10/1/2016 16:17",
-		"initializeScanCode" : "EiichiroIto 10/1/2016 17:16",
-		"keyPressed:" : "EiichiroIto 10/1/2016 19:43",
-		"startRecodeKeyState" : "EiichiroIto 10/1/2016 17:18",
-		"stopRecodeKeyState" : "EiichiroIto 10/1/2016 17:17",
-		"updateKeyState:" : "EiichiroIto 10/1/2016 17:22" },
+		 },
 	"instance" : {
 		"firstClickCursorPoint" : "EiichiroIto 9/18/2016 17:21",
 		"hasMouseFocus:" : "EiichiroIto 10/4/2016 19:35",
