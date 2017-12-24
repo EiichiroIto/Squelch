@@ -2,8 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"acceptDroppingMorph:event:" : "EiichiroIto 12/23/2017 18:59:53",
-		"insertItem:before:" : "EiichiroIto 12/23/2017 18:59:53",
-		"isPartsBin" : "EiichiroIto 12/23/2017 18:59:53",
-		"rootForGrabOf:" : "EiichiroIto 12/23/2017 18:59:53",
-		"wantsDroppedMorph:event:" : "EiichiroIto 12/23/2017 18:59:53" } }
+		"acceptDroppingMorph:event:" : "EiichiroIto 12/24/2017 12:45:22",
+		"insertItem:before:" : "EiichiroIto 12/24/2017 12:45:22",
+		"isPartsBin" : "EiichiroIto 12/24/2017 12:45:22",
+		"rootForGrabOf:" : "EiichiroIto 12/24/2017 12:45:22",
+		"wantsDroppedMorph:event:" : "EiichiroIto 12/24/2017 12:45:22" } }

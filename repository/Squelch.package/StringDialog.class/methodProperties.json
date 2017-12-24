@@ -1,13 +1,13 @@
 {
 	"class" : {
-		"ask:" : "EiichiroIto 12/23/2017 18:59:53",
-		"ask:initialAnswer:" : "EiichiroIto 12/23/2017 18:59:53",
-		"askWithCancel:" : "EiichiroIto 12/23/2017 18:59:53",
-		"askWithCancel:initialAnswer:" : "EiichiroIto 12/23/2017 18:59:53" },
+		"ask:" : "EiichiroIto 12/24/2017 12:45:22",
+		"ask:initialAnswer:" : "EiichiroIto 12/24/2017 12:45:22",
+		"askWithCancel:" : "EiichiroIto 12/24/2017 12:45:22",
+		"askWithCancel:initialAnswer:" : "EiichiroIto 12/24/2017 12:45:22" },
 	"instance" : {
-		"accept" : "EiichiroIto 12/23/2017 18:59:53",
-		"getUserResponse" : "EiichiroIto 12/23/2017 18:59:53",
-		"handlesMouseOver:" : "EiichiroIto 12/23/2017 18:59:53",
-		"initialAnswer:" : "EiichiroIto 12/23/2017 18:59:53",
-		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
-		"mouseEnter:" : "EiichiroIto 12/23/2017 18:59:53" } }
+		"accept" : "EiichiroIto 12/24/2017 12:45:22",
+		"getUserResponse" : "EiichiroIto 12/24/2017 12:45:22",
+		"handlesMouseOver:" : "EiichiroIto 12/24/2017 12:45:22",
+		"initialAnswer:" : "EiichiroIto 12/24/2017 12:45:22",
+		"initialize" : "EiichiroIto 12/24/2017 12:45:22",
+		"mouseEnter:" : "EiichiroIto 12/24/2017 12:45:22" } }

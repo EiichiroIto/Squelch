@@ -2,15 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
-		"click:" : "EiichiroIto 12/23/2017 18:59:53",
-		"drawOn:" : "EiichiroIto 12/23/2017 18:59:53",
-		"fieldsVersion" : "EiichiroIto 12/23/2017 18:59:53",
-		"handlesMouseDown:" : "EiichiroIto 12/23/2017 18:59:53",
-		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
-		"initializeSlider" : "EiichiroIto 12/23/2017 18:59:53",
-		"mouseDown:" : "EiichiroIto 12/23/2017 18:59:53",
-		"mouseMove:" : "EiichiroIto 12/23/2017 18:59:53",
-		"mouseUp:" : "EiichiroIto 12/23/2017 18:59:53",
-		"sliderExtent" : "EiichiroIto 12/23/2017 18:59:53",
-		"startDrag:" : "EiichiroIto 12/23/2017 18:59:53",
-		"updateSliderPosition" : "EiichiroIto 12/23/2017 18:59:53" } }
+		"click:" : "EiichiroIto 12/24/2017 12:45:22",
+		"drawOn:" : "EiichiroIto 12/24/2017 12:45:22",
+		"fieldsVersion" : "EiichiroIto 12/24/2017 12:45:22",
+		"handlesMouseDown:" : "EiichiroIto 12/24/2017 12:45:22",
+		"initialize" : "EiichiroIto 12/24/2017 12:45:22",
+		"initializeSlider" : "EiichiroIto 12/24/2017 12:45:22",
+		"mouseDown:" : "EiichiroIto 12/24/2017 12:45:22",
+		"mouseMove:" : "EiichiroIto 12/24/2017 12:45:22",
+		"mouseUp:" : "EiichiroIto 12/24/2017 12:45:22",
+		"sliderExtent" : "EiichiroIto 12/24/2017 12:45:22",
+		"startDrag:" : "EiichiroIto 12/24/2017 12:45:22",
+		"updateSliderPosition" : "EiichiroIto 12/24/2017 12:45:22" } }

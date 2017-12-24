@@ -1,16 +1,16 @@
 {
 	"class" : {
-		"colorPaletteExtent:" : "EiichiroIto 12/23/2017 18:59:53",
-		"initialize" : "EiichiroIto 12/23/2017 18:59:53" },
+		"colorPaletteExtent:" : "EiichiroIto 12/24/2017 12:45:22",
+		"initialize" : "EiichiroIto 12/24/2017 12:45:22" },
 	"instance" : {
-		"defaultValue:" : "EiichiroIto 12/23/2017 18:59:53",
-		"evaluate" : "EiichiroIto 12/23/2017 18:59:53",
-		"fieldsVersion" : "EiichiroIto 12/23/2017 18:59:53",
-		"handlesMouseDown:" : "EiichiroIto 12/23/2017 18:59:53",
-		"hexFor:" : "EiichiroIto 12/23/2017 18:59:53",
-		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
-		"mouseUp:" : "EiichiroIto 12/23/2017 18:59:53",
-		"pickColor" : "EiichiroIto 12/23/2017 18:59:53",
-		"printArgOn:" : "EiichiroIto 12/23/2017 18:59:53",
-		"setColor:" : "EiichiroIto 12/23/2017 18:59:53",
-		"showPalette:" : "EiichiroIto 12/23/2017 18:59:53" } }
+		"defaultValue:" : "EiichiroIto 12/24/2017 12:45:22",
+		"evaluate" : "EiichiroIto 12/24/2017 12:45:22",
+		"fieldsVersion" : "EiichiroIto 12/24/2017 12:45:22",
+		"handlesMouseDown:" : "EiichiroIto 12/24/2017 12:45:22",
+		"hexFor:" : "EiichiroIto 12/24/2017 12:45:22",
+		"initialize" : "EiichiroIto 12/24/2017 12:45:22",
+		"mouseUp:" : "EiichiroIto 12/24/2017 12:45:22",
+		"pickColor" : "EiichiroIto 12/24/2017 12:45:22",
+		"printArgOn:" : "EiichiroIto 12/24/2017 12:45:22",
+		"setColor:" : "EiichiroIto 12/24/2017 12:45:22",
+		"showPalette:" : "EiichiroIto 12/24/2017 12:45:22" } }

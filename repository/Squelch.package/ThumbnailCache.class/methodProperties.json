@@ -1,14 +1,14 @@
 {
 	"class" : {
-		"initialize" : "EiichiroIto 12/23/2017 18:59:53" },
+		"initialize" : "EiichiroIto 12/24/2017 12:45:22" },
 	"instance" : {
-		"directory:" : "EiichiroIto 12/23/2017 18:59:53",
-		"filesToUpdate" : "EiichiroIto 12/23/2017 18:59:53",
-		"readThumbnailFile" : "EiichiroIto 12/23/2017 18:59:53",
-		"removeObsoleteEntries" : "EiichiroIto 12/23/2017 18:59:53",
-		"scriptCountFor:" : "EiichiroIto 12/23/2017 18:59:53",
-		"thumbnailFor:" : "EiichiroIto 12/23/2017 18:59:53",
-		"thumbnailFromImageData:" : "EiichiroIto 12/23/2017 18:59:53",
-		"thumbnailFromSpriteData:" : "EiichiroIto 12/23/2017 18:59:53",
-		"updateThumbnails" : "EiichiroIto 12/23/2017 18:59:53",
-		"writeThumbnailFile" : "EiichiroIto 12/23/2017 18:59:53" } }
+		"directory:" : "EiichiroIto 12/24/2017 12:45:22",
+		"filesToUpdate" : "EiichiroIto 12/24/2017 12:45:22",
+		"readThumbnailFile" : "EiichiroIto 12/24/2017 12:45:22",
+		"removeObsoleteEntries" : "EiichiroIto 12/24/2017 12:45:22",
+		"scriptCountFor:" : "EiichiroIto 12/24/2017 12:45:22",
+		"thumbnailFor:" : "EiichiroIto 12/24/2017 12:45:22",
+		"thumbnailFromImageData:" : "EiichiroIto 12/24/2017 12:45:22",
+		"thumbnailFromSpriteData:" : "EiichiroIto 12/24/2017 12:45:22",
+		"updateThumbnails" : "EiichiroIto 12/24/2017 12:45:22",
+		"writeThumbnailFile" : "EiichiroIto 12/24/2017 12:45:22" } }

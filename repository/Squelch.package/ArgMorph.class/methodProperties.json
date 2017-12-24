@@ -1,17 +1,17 @@
 {
 	"class" : {
-		"initialize" : "EiichiroIto 12/23/2017 18:59:53" },
+		"initialize" : "EiichiroIto 12/24/2017 12:45:22" },
 	"instance" : {
-		"acceptsDroppedReporters" : "EiichiroIto 12/23/2017 18:59:53",
-		"acceptsTypeOf:" : "EiichiroIto 12/23/2017 18:59:53",
-		"defaultValue:" : "EiichiroIto 12/23/2017 18:59:53",
-		"drawHLineFrom:to:y:color:on:" : "EiichiroIto 12/23/2017 18:59:53",
-		"fieldsVersion" : "EiichiroIto 12/23/2017 18:59:53",
-		"fixArgLayout" : "EiichiroIto 12/23/2017 18:59:53",
-		"initFieldsFrom:version:" : "EiichiroIto 12/23/2017 18:59:53",
-		"isArgMorph" : "EiichiroIto 12/23/2017 18:59:53",
-		"isBlockMorph" : "EiichiroIto 12/23/2017 18:59:53",
-		"isReporter" : "EiichiroIto 12/23/2017 18:59:53",
-		"labelMorph" : "EiichiroIto 12/23/2017 18:59:53",
-		"printArgOn:" : "EiichiroIto 12/23/2017 18:59:53",
-		"storeFieldsOn:" : "EiichiroIto 12/23/2017 18:59:53" } }
+		"acceptsDroppedReporters" : "EiichiroIto 12/24/2017 12:45:22",
+		"acceptsTypeOf:" : "EiichiroIto 12/24/2017 12:45:22",
+		"defaultValue:" : "EiichiroIto 12/24/2017 12:45:22",
+		"drawHLineFrom:to:y:color:on:" : "EiichiroIto 12/24/2017 12:45:22",
+		"fieldsVersion" : "EiichiroIto 12/24/2017 12:45:22",
+		"fixArgLayout" : "EiichiroIto 12/24/2017 12:45:22",
+		"initFieldsFrom:version:" : "EiichiroIto 12/24/2017 12:45:22",
+		"isArgMorph" : "EiichiroIto 12/24/2017 12:45:22",
+		"isBlockMorph" : "EiichiroIto 12/24/2017 12:45:22",
+		"isReporter" : "EiichiroIto 12/24/2017 12:45:22",
+		"labelMorph" : "EiichiroIto 12/24/2017 12:45:22",
+		"printArgOn:" : "EiichiroIto 12/24/2017 12:45:22",
+		"storeFieldsOn:" : "EiichiroIto 12/24/2017 12:45:22" } }

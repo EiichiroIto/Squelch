@@ -1,16 +1,16 @@
 {
 	"class" : {
-		"closeAllMenus" : "EiichiroIto 12/23/2017 18:59:53",
-		"deactivateMenuBar" : "EiichiroIto 12/23/2017 18:59:53",
-		"menuBarIsActive" : "EiichiroIto 12/23/2017 18:59:53" },
+		"closeAllMenus" : "EiichiroIto 12/24/2017 12:45:22",
+		"deactivateMenuBar" : "EiichiroIto 12/24/2017 12:45:22",
+		"menuBarIsActive" : "EiichiroIto 12/24/2017 12:45:22" },
 	"instance" : {
-		"handlesMouseDown:" : "EiichiroIto 12/23/2017 18:59:53",
-		"handlesMouseOver:" : "EiichiroIto 12/23/2017 18:59:53",
-		"highlightColor" : "EiichiroIto 12/23/2017 18:59:53",
-		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
-		"mouseDown:" : "EiichiroIto 12/23/2017 18:59:53",
-		"mouseEnter:" : "EiichiroIto 12/23/2017 18:59:53",
-		"mouseLeave:" : "EiichiroIto 12/23/2017 18:59:53",
-		"normalColor" : "EiichiroIto 12/23/2017 18:59:53",
-		"selector" : "EiichiroIto 12/23/2017 18:59:53",
-		"target:selector:" : "EiichiroIto 12/23/2017 18:59:53" } }
+		"handlesMouseDown:" : "EiichiroIto 12/24/2017 12:45:22",
+		"handlesMouseOver:" : "EiichiroIto 12/24/2017 12:45:22",
+		"highlightColor" : "EiichiroIto 12/24/2017 12:45:22",
+		"initialize" : "EiichiroIto 12/24/2017 12:45:22",
+		"mouseDown:" : "EiichiroIto 12/24/2017 12:45:22",
+		"mouseEnter:" : "EiichiroIto 12/24/2017 12:45:22",
+		"mouseLeave:" : "EiichiroIto 12/24/2017 12:45:22",
+		"normalColor" : "EiichiroIto 12/24/2017 12:45:22",
+		"selector" : "EiichiroIto 12/24/2017 12:45:22",
+		"target:selector:" : "EiichiroIto 12/24/2017 12:45:22" } }

@@ -1,2 +1,2 @@
-(name 'Squelch-EiichiroIto.3' message 'rename ''kitten.wav'' to ''Kitten.wav''.' id 'b56bc89c-01df-4191-8349-cec2cc137844' date '24 December 2017' time '12:45:19.236825 pm' author 'EiichiroIto' ancestors ((name 'Squelch-EiichiroIto.2' message 'move class methods of HandMorph to Morphic-Core package.
-' id 'e98552c6-0f3e-5277-a6a0-aaa29559b3bc' date '23 December 2017' time '6:59:53 pm' author 'EiichiroIto' ancestors () stepChildren ())) stepChildren ())
+(name 'Squelch-EiichiroIto.4' message 'add getScratchSkin class method to ScratchFrameMorph.' id '03705eba-75b1-4d01-9f82-51d5c8bd1584' date '24 December 2017' time '5:45:39.623406 pm' author 'EiichiroIto' ancestors ((name 'Squelch-EiichiroIto.3' message 'rename ''kitten.wav'' to ''Kitten.wav''.
+' id '8ed7f283-d1f5-5701-9695-1aac46245851' date '24 December 2017' time '12:45:22 pm' author 'EiichiroIto' ancestors () stepChildren ())) stepChildren ())

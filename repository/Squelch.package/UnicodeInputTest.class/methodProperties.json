@@ -2,11 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"drawOn:" : "EiichiroIto 12/23/2017 18:59:53",
-		"drawString:at:on:" : "EiichiroIto 12/23/2017 18:59:53",
-		"handlesKeyboard:" : "EiichiroIto 12/23/2017 18:59:53",
-		"handlesMouseDown:" : "EiichiroIto 12/23/2017 18:59:53",
-		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
-		"keyStroke:" : "EiichiroIto 12/23/2017 18:59:53",
-		"keyboardFocusChange:" : "EiichiroIto 12/23/2017 18:59:53",
-		"mouseDown:" : "EiichiroIto 12/23/2017 18:59:53" } }
+		"drawOn:" : "EiichiroIto 12/24/2017 12:45:22",
+		"drawString:at:on:" : "EiichiroIto 12/24/2017 12:45:22",
+		"handlesKeyboard:" : "EiichiroIto 12/24/2017 12:45:22",
+		"handlesMouseDown:" : "EiichiroIto 12/24/2017 12:45:22",
+		"initialize" : "EiichiroIto 12/24/2017 12:45:22",
+		"keyStroke:" : "EiichiroIto 12/24/2017 12:45:22",
+		"keyboardFocusChange:" : "EiichiroIto 12/24/2017 12:45:22",
+		"mouseDown:" : "EiichiroIto 12/24/2017 12:45:22" } }
