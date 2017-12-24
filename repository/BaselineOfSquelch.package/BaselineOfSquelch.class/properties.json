@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSquelch",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSquelch",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
