@@ -50,6 +50,10 @@ wget -P ScratchSkin https://github.com/LLK/Scratch_1.4/raw/master/Media/Sounds/E
 Pharoを起動してWorldメニューからTools-Configuration Browserを開いてください。
 一覧からGitFileTreeを選んで、Install Stable Versionを押してください。
 
+```
+./pharo-ui Pharo.image
+```
+
 ## Install
 PharoでPlaygroundを開き、以下を入力したあと Do it all and go ボタンを押してください。
 
@@ -62,4 +66,9 @@ Metacello new
 
 ## Start
 WorldメニューからSquelchを選ぶと起動します。
+
+## Bugs
+- 既にあるブロックに対してForeverなどのC型ブロックを後からはめ込もうとするとおかしくなる。
+
+
 
