@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"asBlockTuple" : "jm 3/28/2005 12:40",
-		"choice:" : "ee 4/9/2008 10:59",
-		"eventName" : "jm 3/28/2005 12:38",
-		"initialize" : "EiichiroIto 9/15/2016 14:00",
-		"printHatNameOn:" : "jm 12/8/2005 19:22",
-		"respondsToKeyEvent:" : "jm 8/9/2007 20:03" } }
+		"asBlockTuple" : "EiichiroIto 12/23/2017 18:59:53",
+		"choice:" : "EiichiroIto 12/23/2017 18:59:53",
+		"eventName" : "EiichiroIto 12/23/2017 18:59:53",
+		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
+		"printHatNameOn:" : "EiichiroIto 12/23/2017 18:59:53",
+		"respondsToKeyEvent:" : "EiichiroIto 12/23/2017 18:59:53" } }

@@ -2,14 +2,14 @@
 	"class" : {
 		 },
 	"instance" : {
-		"bePrompt:" : "ee 3/2/2009 11:53",
-		"beThoughtBubble:" : "jm 3/21/2008 14:03",
-		"drawOn:" : "jm 12/19/2006 23:45",
-		"extent:" : "jm 11/29/2006 16:40",
-		"hasTranslucentColor" : "jm 12/1/2006 12:14",
-		"initialize" : "jm 8/11/2008 17:56",
-		"insetBottom" : "jm 7/9/2008 07:53",
-		"message" : "jm 7/9/2008 07:59",
-		"message:" : "EiichiroIto 9/25/2016 21:03",
-		"noPointer" : "jm 2/11/2009 10:29",
-		"pointLeft:" : "jm 12/1/2006 10:47" } }
+		"bePrompt:" : "EiichiroIto 12/23/2017 18:59:53",
+		"beThoughtBubble:" : "EiichiroIto 12/23/2017 18:59:53",
+		"drawOn:" : "EiichiroIto 12/23/2017 18:59:53",
+		"extent:" : "EiichiroIto 12/23/2017 18:59:53",
+		"hasTranslucentColor" : "EiichiroIto 12/23/2017 18:59:53",
+		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
+		"insetBottom" : "EiichiroIto 12/23/2017 18:59:53",
+		"message" : "EiichiroIto 12/23/2017 18:59:53",
+		"message:" : "EiichiroIto 12/23/2017 18:59:53",
+		"noPointer" : "EiichiroIto 12/23/2017 18:59:53",
+		"pointLeft:" : "EiichiroIto 12/23/2017 18:59:53" } }

@@ -1,10 +1,10 @@
 {
 	"class" : {
-		"initialMin:max:" : "jm 11/21/2006 11:54" },
+		"initialMin:max:" : "EiichiroIto 12/23/2017 18:59:53" },
 	"instance" : {
-		"accept" : "jm 9/11/2004 09:03",
-		"getUserResponse" : "jm 2/27/2009 17:42",
-		"handlesMouseOver:" : "jm 9/10/2004 20:05",
-		"initialMin:max:" : "jm 11/21/2006 11:22",
-		"initialize" : "ee 8/8/2008 10:28",
-		"mouseEnter:" : "jm 11/21/2006 11:25" } }
+		"accept" : "EiichiroIto 12/23/2017 18:59:53",
+		"getUserResponse" : "EiichiroIto 12/23/2017 18:59:53",
+		"handlesMouseOver:" : "EiichiroIto 12/23/2017 18:59:53",
+		"initialMin:max:" : "EiichiroIto 12/23/2017 18:59:53",
+		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
+		"mouseEnter:" : "EiichiroIto 12/23/2017 18:59:53" } }

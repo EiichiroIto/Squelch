@@ -2,10 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"adjustLayoutInset" : "EiichiroIto 10/4/2016 21:14",
-		"createColorPickers" : "ee 11/6/2005 15:19",
-		"createColorSwatches" : "EiichiroIto 10/4/2016 21:04",
-		"extent:" : "ee 11/12/2005 12:48",
-		"handlesMouseDown:" : "jm 11/20/2005 23:09",
-		"initialize" : "ee 11/6/2005 15:18",
-		"setColor:" : "EiichiroIto 9/22/2016 21:32" } }
+		"adjustLayoutInset" : "EiichiroIto 12/23/2017 18:59:53",
+		"createColorPickers" : "EiichiroIto 12/23/2017 18:59:53",
+		"createColorSwatches" : "EiichiroIto 12/23/2017 18:59:53",
+		"extent:" : "EiichiroIto 12/23/2017 18:59:53",
+		"handlesMouseDown:" : "EiichiroIto 12/23/2017 18:59:53",
+		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
+		"setColor:" : "EiichiroIto 12/23/2017 18:59:53" } }

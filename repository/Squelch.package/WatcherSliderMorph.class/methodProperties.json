@@ -2,15 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
-		"click:" : "jm 4/20/2007 19:39",
-		"drawOn:" : "jm 8/21/2006 09:02",
-		"fieldsVersion" : "ee 6/7/2006 14:02",
-		"handlesMouseDown:" : "jm 4/20/2007 19:37",
-		"initialize" : "jm 3/21/2008 14:05",
-		"initializeSlider" : "jm 8/21/2006 08:32",
-		"mouseDown:" : "jm 4/20/2007 20:40",
-		"mouseMove:" : "jm 4/20/2007 20:37",
-		"mouseUp:" : "jm 8/21/2006 09:02",
-		"sliderExtent" : "jm 8/21/2006 08:37",
-		"startDrag:" : "jm 4/20/2007 20:44",
-		"updateSliderPosition" : "EiichiroIto 9/29/2016 17:44" } }
+		"click:" : "EiichiroIto 12/23/2017 18:59:53",
+		"drawOn:" : "EiichiroIto 12/23/2017 18:59:53",
+		"fieldsVersion" : "EiichiroIto 12/23/2017 18:59:53",
+		"handlesMouseDown:" : "EiichiroIto 12/23/2017 18:59:53",
+		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
+		"initializeSlider" : "EiichiroIto 12/23/2017 18:59:53",
+		"mouseDown:" : "EiichiroIto 12/23/2017 18:59:53",
+		"mouseMove:" : "EiichiroIto 12/23/2017 18:59:53",
+		"mouseUp:" : "EiichiroIto 12/23/2017 18:59:53",
+		"sliderExtent" : "EiichiroIto 12/23/2017 18:59:53",
+		"startDrag:" : "EiichiroIto 12/23/2017 18:59:53",
+		"updateSliderPosition" : "EiichiroIto 12/23/2017 18:59:53" } }

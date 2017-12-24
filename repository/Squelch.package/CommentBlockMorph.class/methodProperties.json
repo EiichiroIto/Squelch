@@ -2,10 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"asBlockTuple" : "jm 11/19/2007 10:38",
-		"comment:" : "jm 10/3/2007 14:34",
-		"fixBlockLayout" : "jm 9/28/2007 17:25",
-		"initialize" : "jm 12/9/2008 17:02",
-		"mouseDown:" : "jm 10/1/2007 16:46",
-		"toggleShowing" : "jm 12/9/2008 17:02",
-		"wantsKeyboardFocusFor:" : "jm 9/28/2007 17:35" } }
+		"asBlockTuple" : "EiichiroIto 12/23/2017 18:59:53",
+		"comment:" : "EiichiroIto 12/23/2017 18:59:53",
+		"fixBlockLayout" : "EiichiroIto 12/23/2017 18:59:53",
+		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
+		"mouseDown:" : "EiichiroIto 12/23/2017 18:59:53",
+		"toggleShowing" : "EiichiroIto 12/23/2017 18:59:53",
+		"wantsKeyboardFocusFor:" : "EiichiroIto 12/23/2017 18:59:53" } }

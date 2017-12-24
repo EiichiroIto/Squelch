@@ -2,14 +2,14 @@
 	"class" : {
 		 },
 	"instance" : {
-		"argMorph" : "jm 7/19/2006 10:53",
-		"argMorphToReplace:" : "jm 8/31/2006 09:23",
-		"asBlockTuple" : "jm 9/1/2006 12:38",
-		"evaluateCondition" : "jm 7/19/2006 10:56",
-		"fixBlockLayout" : "jm 11/28/2006 20:27",
-		"helpScreenName" : "tis 10/8/2006 12:34",
-		"initialize" : "nb 1/15/2008 20:39",
-		"nextBlock" : "jm 8/31/2006 09:19",
-		"printHatNameOn:" : "jm 9/1/2006 11:16",
-		"replaceArgMorph:by:" : "jm 8/31/2006 09:10",
-		"triggered" : "jm 7/19/2006 10:33" } }
+		"argMorph" : "EiichiroIto 12/23/2017 18:59:53",
+		"argMorphToReplace:" : "EiichiroIto 12/23/2017 18:59:53",
+		"asBlockTuple" : "EiichiroIto 12/23/2017 18:59:53",
+		"evaluateCondition" : "EiichiroIto 12/23/2017 18:59:53",
+		"fixBlockLayout" : "EiichiroIto 12/23/2017 18:59:53",
+		"helpScreenName" : "EiichiroIto 12/23/2017 18:59:53",
+		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
+		"nextBlock" : "EiichiroIto 12/23/2017 18:59:53",
+		"printHatNameOn:" : "EiichiroIto 12/23/2017 18:59:53",
+		"replaceArgMorph:by:" : "EiichiroIto 12/23/2017 18:59:53",
+		"triggered" : "EiichiroIto 12/23/2017 18:59:53" } }

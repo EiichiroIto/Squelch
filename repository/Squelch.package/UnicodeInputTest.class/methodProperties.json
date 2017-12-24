@@ -2,11 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"drawOn:" : "EiichiroIto 9/27/2016 16:14",
-		"drawString:at:on:" : "EiichiroIto 9/26/2016 21:12",
-		"handlesKeyboard:" : "EiichiroIto 9/26/2016 21:12",
-		"handlesMouseDown:" : "jm 5/28/2008 19:11",
-		"initialize" : "jm 6/13/2008 17:25",
-		"keyStroke:" : "EiichiroIto 9/26/2016 21:13",
-		"keyboardFocusChange:" : "jm 5/28/2008 19:11",
-		"mouseDown:" : "jm 5/28/2008 19:13" } }
+		"drawOn:" : "EiichiroIto 12/23/2017 18:59:53",
+		"drawString:at:on:" : "EiichiroIto 12/23/2017 18:59:53",
+		"handlesKeyboard:" : "EiichiroIto 12/23/2017 18:59:53",
+		"handlesMouseDown:" : "EiichiroIto 12/23/2017 18:59:53",
+		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
+		"keyStroke:" : "EiichiroIto 12/23/2017 18:59:53",
+		"keyboardFocusChange:" : "EiichiroIto 12/23/2017 18:59:53",
+		"mouseDown:" : "EiichiroIto 12/23/2017 18:59:53" } }

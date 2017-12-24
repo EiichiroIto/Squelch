@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"drawBorderOn:" : "jm 8/21/2006 13:51",
-		"drawOn:" : "EiichiroIto 9/25/2016 17:28",
-		"fieldsVersion" : "jm 8/21/2006 14:03",
-		"fixLayout" : "EiichiroIto 9/29/2016 17:44",
-		"initialize" : "jm 8/6/2008 19:39",
-		"isLarge" : "jm 8/6/2008 19:39" } }
+		"drawBorderOn:" : "EiichiroIto 12/23/2017 18:59:53",
+		"drawOn:" : "EiichiroIto 12/23/2017 18:59:53",
+		"fieldsVersion" : "EiichiroIto 12/23/2017 18:59:53",
+		"fixLayout" : "EiichiroIto 12/23/2017 18:59:53",
+		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
+		"isLarge" : "EiichiroIto 12/23/2017 18:59:53" } }

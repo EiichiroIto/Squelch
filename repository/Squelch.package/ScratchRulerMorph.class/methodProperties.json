@@ -1,11 +1,11 @@
 {
 	"class" : {
-		"graphMorph:" : "LY 7/23/2003 10:46" },
+		"graphMorph:" : "EiichiroIto 12/23/2017 18:59:53" },
 	"instance" : {
-		"drawOn:" : "",
-		"graph:" : "LY 7/23/2003 10:31",
-		"initialize" : "LY 7/23/2003 10:30",
-		"marks:" : "LY 7/23/2003 10:21",
-		"min:max:" : "LY 7/23/2003 10:19",
-		"sigDigs:" : "LY 7/23/2003 10:21",
-		"step" : "LY 7/31/2003 11:48" } }
+		"drawOn:" : "EiichiroIto 12/23/2017 18:59:53",
+		"graph:" : "EiichiroIto 12/23/2017 18:59:53",
+		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
+		"marks:" : "EiichiroIto 12/23/2017 18:59:53",
+		"min:max:" : "EiichiroIto 12/23/2017 18:59:53",
+		"sigDigs:" : "EiichiroIto 12/23/2017 18:59:53",
+		"step" : "EiichiroIto 12/23/2017 18:59:53" } }

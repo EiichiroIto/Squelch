@@ -2,10 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"acceptDroppingMorph:event:" : "EiichiroIto 9/29/2016 17:37",
-		"fixLayout" : "ee 4/29/2009 11:08",
-		"initialize" : "jm 3/29/2008 11:07",
-		"isPartsBin" : "jm 7/1/2004 23:15",
-		"rootForGrabOf:" : "jm 7/1/2004 23:21",
-		"updateWatcherButtonsForFrame:" : "jm 12/1/2007 20:56",
-		"wantsDroppedMorph:event:" : "EiichiroIto 9/29/2016 17:37" } }
+		"acceptDroppingMorph:event:" : "EiichiroIto 12/23/2017 18:59:53",
+		"fixLayout" : "EiichiroIto 12/23/2017 18:59:53",
+		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
+		"isPartsBin" : "EiichiroIto 12/23/2017 18:59:53",
+		"rootForGrabOf:" : "EiichiroIto 12/23/2017 18:59:53",
+		"updateWatcherButtonsForFrame:" : "EiichiroIto 12/23/2017 18:59:53",
+		"wantsDroppedMorph:event:" : "EiichiroIto 12/23/2017 18:59:53" } }

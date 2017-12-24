@@ -2,13 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		"cameraButton" : "jm 4/30/2009 22:37",
-		"client:" : "jm 4/30/2009 22:35",
-		"close" : "jm 4/30/2009 22:41",
-		"createButtons" : "jm 4/30/2009 22:39",
-		"initialize" : "jm 4/30/2009 22:51",
-		"keyStroke:" : "jm 5/28/2009 21:40",
-		"openCamera" : "jm 6/22/2009 13:20",
-		"savePhoto" : "jm 6/22/2009 14:06",
-		"step" : "jm 6/22/2009 14:00",
-		"stepTime" : "jm 4/10/2009 14:01" } }
+		"cameraButton" : "EiichiroIto 12/23/2017 18:59:53",
+		"client:" : "EiichiroIto 12/23/2017 18:59:53",
+		"close" : "EiichiroIto 12/23/2017 18:59:53",
+		"createButtons" : "EiichiroIto 12/23/2017 18:59:53",
+		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
+		"keyStroke:" : "EiichiroIto 12/23/2017 18:59:53",
+		"openCamera" : "EiichiroIto 12/23/2017 18:59:53",
+		"savePhoto" : "EiichiroIto 12/23/2017 18:59:53",
+		"step" : "EiichiroIto 12/23/2017 18:59:53",
+		"stepTime" : "EiichiroIto 12/23/2017 18:59:53" } }

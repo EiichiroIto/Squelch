@@ -1,17 +1,17 @@
 {
 	"class" : {
-		"clearLastAnswer" : "jm 2/27/2009 18:13",
-		"initialize" : "jm 2/11/2009 09:45",
-		"lastAnswer" : "jm 2/11/2009 09:46" },
+		"clearLastAnswer" : "EiichiroIto 12/23/2017 18:59:53",
+		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
+		"lastAnswer" : "EiichiroIto 12/23/2017 18:59:53" },
 	"instance" : {
-		"accept" : "jm 2/25/2009 09:50",
-		"dispatchKeyStroke:" : "jm 3/2/2009 15:38",
-		"enterKeyPressed" : "jm 2/10/2009 19:53",
-		"extent:" : "jm 2/10/2009 20:04",
-		"fixLayout" : "ee 4/28/2009 20:40",
-		"grabKeyboardFocus" : "jm 2/10/2009 20:51",
-		"initialize" : "ee 4/28/2009 20:29",
-		"isDone" : "jm 2/10/2009 20:39",
-		"question:" : "ee 3/1/2009 12:34",
-		"sprite:" : "jm 2/25/2009 09:47",
-		"stopAsk" : "jm 2/26/2009 21:34" } }
+		"accept" : "EiichiroIto 12/23/2017 18:59:53",
+		"dispatchKeyStroke:" : "EiichiroIto 12/23/2017 18:59:53",
+		"enterKeyPressed" : "EiichiroIto 12/23/2017 18:59:53",
+		"extent:" : "EiichiroIto 12/23/2017 18:59:53",
+		"fixLayout" : "EiichiroIto 12/23/2017 18:59:53",
+		"grabKeyboardFocus" : "EiichiroIto 12/23/2017 18:59:53",
+		"initialize" : "EiichiroIto 12/23/2017 18:59:53",
+		"isDone" : "EiichiroIto 12/23/2017 18:59:53",
+		"question:" : "EiichiroIto 12/23/2017 18:59:53",
+		"sprite:" : "EiichiroIto 12/23/2017 18:59:53",
+		"stopAsk" : "EiichiroIto 12/23/2017 18:59:53" } }
