@@ -4,6 +4,8 @@ a porting of "Based on Scratch" to Pharo Smalltalk (only for 4.0).
 
 移植途中なので、完全なものではなく実験・研究用と考えてください。
 
+![Squelch screenshot](https://raw.githubusercontent.com/wiki/EiichiroIto/Squelch/images/squelch.png)
+
 ## License
 Scratch Source Code Licenseに従います。
 
